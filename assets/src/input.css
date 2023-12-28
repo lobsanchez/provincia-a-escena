@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.link{
+    @apply px-4 py-1 transition duration-500 rounded-3xl bg-background-menu hover:bg-menu hover:text-white;
+}
+.index{
+    @apply text-xs;
+}
