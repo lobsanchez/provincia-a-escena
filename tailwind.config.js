@@ -19,7 +19,7 @@ export default {
         'anton': ['Anton', 'sans-serif'],
       },
       fontSize: {
-        'xs': '.50rem',
+        'xs': '.70rem',
       },
     },
   },

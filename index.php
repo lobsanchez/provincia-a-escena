@@ -27,13 +27,13 @@
             </div>
           </section>
           <section class="flex festival_familiar bg-background-1">
-            <div class="mx-auto p-15">
-              <a class="my-5 text-5xl font-anton text-menu" href="#">FESTIVAL FAMILIAR</a>
-              <p class="text-lg text-menu">EL IV FESTIVAL FAMILIAR DE LAS ARTES ESCÉNICAS contribuye a facilitar el acceso a la cultura a los ciudadanos 
+            <div class="">
+              <div class="ml-20 mt-20 text-6xl font-anton text-menu"><a class="" href="#">FESTIVAL FAMILIAR</a></div>
+              <p class="mx-20 my-6 text-lg text-menu">EL IV FESTIVAL FAMILIAR DE LAS ARTES ESCÉNICAS contribuye a facilitar el acceso a la cultura a los ciudadanos 
                 de entornos rurales con una programación multidisciplinar en recintos escénicos de una quincena de municipios 
                 de menos de seis mil habitantes.
               </p>
-              <button class="text-white rounded-full bg-menu">PROGRAMACIÓN ESCÉNICA</button>
+              <button class="ml-20 mt-6 px-4 py-1 transition duration-500 rounded-3xl text-lg text-white bg-menu hover:bg-white hover:text-menu">PROGRAMACIÓN ESCÉNICA</button>
             </div>
             <div>
               <img class="" src="assets/images/web+inicio.png">
@@ -41,12 +41,12 @@
           </section>
           <section class="flex escuela_espectadores bg-background-2">
             <div>
-              <a href="#">ESCUELA RURAL DE ESPECTADORES</a>
-              <p>LA ESCUELA RURAL DE ESPECTADORES Y ESPECTADORAS, es una programación complementaria de actividades de 
+            <div class="ml-20 mt-20 text-6xl font-anton text-menu"><a href="#">ESCUELA RURAL DE ESPECTADORES</a></div>
+              <p class="mx-20 my-6 text-lg text-menu">LA ESCUELA RURAL DE ESPECTADORES Y ESPECTADORAS, es una programación complementaria de actividades de 
                 formación de públicos en colegios e institutos de la provincia de Salamanca, con atención preferencial 
                 a los Centros Rurales Agrupados.
               </p>
-              <button>PROGHRAMACIÓN ALUMNADO</button>
+              <button class="ml-20 mt-6 px-4 py-1 transition duration-500 rounded-3xl text-lg text-white bg-menu hover:bg-white hover:text-menu">PROGRAMACIÓN ALUMNADO</button>
             </div>
             <div>
               <img class="" src="assets/images/web+inicio2.png">
