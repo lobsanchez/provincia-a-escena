@@ -580,26 +580,6 @@ video {
   }
 }
 
-.absolute{
-  position: absolute;
-}
-
-.relative{
-  position: relative;
-}
-
-.left-0{
-  left: 0px;
-}
-
-.z-50{
-  z-index: 50;
-}
-
-.z-10{
-  z-index: 10;
-}
-
 .col-span-3{
   grid-column: span 3 / span 3;
 }
@@ -608,24 +588,24 @@ video {
   grid-column: span 7 / span 7;
 }
 
+.mx-20{
+  margin-left: 5rem;
+  margin-right: 5rem;
+}
+
 .mx-auto{
   margin-left: auto;
   margin-right: auto;
 }
 
-.my-4{
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+.my-10{
+  margin-top: 2.5rem;
+  margin-bottom: 2.5rem;
 }
 
-.my-5{
-  margin-top: 1.25rem;
-  margin-bottom: 1.25rem;
-}
-
-.mx-20{
-  margin-left: 5rem;
-  margin-right: 5rem;
+.my-3{
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
 }
 
 .my-6{
@@ -633,16 +613,12 @@ video {
   margin-bottom: 1.5rem;
 }
 
-.mt-20{
-  margin-top: 5rem;
-}
-
 .ml-20{
   margin-left: 5rem;
 }
 
-.mt-14{
-  margin-top: 3.5rem;
+.mt-20{
+  margin-top: 5rem;
 }
 
 .mt-6{
@@ -673,16 +649,16 @@ video {
   height: 9rem;
 }
 
-.w-1\/6{
-  width: 16.666667%;
+.h-\[100\%\]{
+  height: 100%;
+}
+
+.h-\[200\%\]{
+  height: 200%;
 }
 
 .w-3\/6{
   width: 50%;
-}
-
-.w-full{
-  width: 100%;
 }
 
 .grid-cols-3{
@@ -705,20 +681,24 @@ video {
   justify-content: flex-end;
 }
 
+.justify-center{
+  justify-content: center;
+}
+
+.justify-between{
+  justify-content: space-between;
+}
+
 .gap-1{
   gap: 0.25rem;
 }
 
-.overflow-hidden{
-  overflow: hidden;
+.rounded-3xl{
+  border-radius: 1.5rem;
 }
 
 .rounded-full{
   border-radius: 9999px;
-}
-
-.rounded-3xl{
-  border-radius: 1.5rem;
 }
 
 .bg-background-1{
@@ -741,8 +721,8 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.bg-background-menu{
-  background-color: rgba(0,0,0,.1);
+.p-1{
+  padding: 0.25rem;
 }
 
 .px-4{
@@ -760,48 +740,14 @@ video {
   padding-bottom: 0.25rem;
 }
 
-.py-10{
-  padding-top: 2.5rem;
-  padding-bottom: 2.5rem;
+.py-12{
+  padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 .py-16{
   padding-top: 4rem;
   padding-bottom: 4rem;
-}
-
-.px-20{
-  padding-left: 5rem;
-  padding-right: 5rem;
-}
-
-.py-6{
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
-}
-
-.pl-10{
-  padding-left: 2.5rem;
-}
-
-.pl-20{
-  padding-left: 5rem;
-}
-
-.pt-20{
-  padding-top: 5rem;
-}
-
-.pt-14{
-  padding-top: 3.5rem;
-}
-
-.pt-10{
-  padding-top: 2.5rem;
-}
-
-.text-center{
-  text-align: center;
 }
 
 .font-anton{
@@ -812,23 +758,9 @@ video {
   font-family: Roboto, Arial, sans-serif;
 }
 
-.text-2xl{
-  font-size: 1.5rem;
-  line-height: 2rem;
-}
-
-.text-5xl{
-  font-size: 3rem;
-  line-height: 1;
-}
-
-.text-\[130px\]{
-  font-size: 130px;
-}
-
-.text-lg{
-  font-size: 1.125rem;
-  line-height: 1.75rem;
+.text-3xl{
+  font-size: 1.875rem;
+  line-height: 2.25rem;
 }
 
 .text-6xl{
@@ -836,16 +768,22 @@ video {
   line-height: 1;
 }
 
-.font-bold{
-  font-weight: 700;
+.text-\[160px\]{
+  font-size: 160px;
 }
 
-.font-semibold{
-  font-weight: 600;
+.text-lg{
+  font-size: 1.125rem;
+  line-height: 1.75rem;
 }
 
-.font-medium{
-  font-weight: 500;
+.text-\[120px\]{
+  font-size: 120px;
+}
+
+.text-2xl{
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .leading-tight{
@@ -899,28 +837,9 @@ video {
   font-size: .70rem;
 }
 
-.after\:bg-background-menu::after{
-  content: var(--tw-content);
-  background-color: rgba(0,0,0,.1);
-}
-
-.hover\:bg-menu:hover{
-  --tw-bg-opacity: 1;
-  background-color: rgb(18 18 18 / var(--tw-bg-opacity));
-}
-
-.hover\:bg-background-menu:hover{
-  background-color: rgba(0,0,0,.1);
-}
-
 .hover\:bg-white:hover{
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
-}
-
-.hover\:text-white:hover{
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .hover\:text-menu:hover{
@@ -928,26 +847,25 @@ video {
   color: rgb(18 18 18 / var(--tw-text-opacity));
 }
 
-@media (min-width: 768px){
-  .md\:w-5\/6{
-    width: 83.333333%;
-  }
-}
-
 @media (min-width: 1024px){
-  .lg\:block{
-    display: block;
+  .lg\:flex{
+    display: flex;
   }
 
   .lg\:hidden{
     display: none;
   }
 
-  .lg\:w-5\/6{
-    width: 83.333333%;
+  .lg\:h-\[100\%\]{
+    height: 100%;
   }
 
-  .lg\:justify-end{
-    justify-content: flex-end;
+  .lg\:text-\[160px\]{
+    font-size: 160px;
+  }
+
+  .lg\:text-4xl{
+    font-size: 2.25rem;
+    line-height: 2.5rem;
   }
 }

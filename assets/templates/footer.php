@@ -1,4 +1,4 @@
-<footer class="container mx-auto">
+<footer class="container mx-auto my-10 ">
     
     <img class="col-span-3 mx-auto h-36" src="assets/images/logos2.png">
     <div class="grid grid-cols-8">

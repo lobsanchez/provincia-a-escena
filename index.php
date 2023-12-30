@@ -19,14 +19,14 @@
    <body class="font-roboto">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
-          <section class="container py-10 mx-auto hero">
-            <h2 class="text-[130px] leading-tight font-anton"><span>IV FESTIVAL FAMILIAR PROVINCIA A ESCENA</span></h2> 
+          <section class="container py-12 mx-auto hero">
+            <h2 class="lg:text-[160px] text-[120px] leading-tight font-anton "><span>IV FESTIVAL FAMILIAR PROVINCIA A ESCENA</span></h2> 
             <div class="flex justify-start py-16">
-              <p class="w-3/6 text-2xl">FESTIVAL FAMILIAR<br> DE LAS ARTES ESCÉNICAS</p>
-              <p class="w-3/6 text-2xl">ESCUELA RURAL<br> DE ESPECTADORES/AS</p>
+              <p class="w-3/6 lg:text-4xl text-2xl">FESTIVAL FAMILIAR<br> DE LAS ARTES ESCÉNICAS</p>
+              <p class="w-3/6 lg:text-4xl text-2xl">ESCUELA RURAL<br> DE ESPECTADORES/AS</p>
             </div>
           </section>
-          <section class="flex festival_familiar bg-background-1">
+          <section class="lg:flex block festival_familiar bg-background-1">
             <div class="">
               <div class="ml-20 mt-20 text-6xl font-anton text-menu"><a class="" href="#">FESTIVAL FAMILIAR</a></div>
               <p class="mx-20 my-6 text-lg text-menu">EL IV FESTIVAL FAMILIAR DE LAS ARTES ESCÉNICAS contribuye a facilitar el acceso a la cultura a los ciudadanos 
@@ -39,7 +39,7 @@
               <img class="" src="assets/images/web+inicio.png">
             </div>
           </section>
-          <section class="flex escuela_espectadores bg-background-2">
+          <section class="lg:flex escuela_espectadores bg-background-2">
             <div>
             <div class="ml-20 mt-20 text-6xl font-anton text-menu"><a href="#">ESCUELA RURAL DE ESPECTADORES</a></div>
               <p class="mx-20 my-6 text-lg text-menu">LA ESCUELA RURAL DE ESPECTADORES Y ESPECTADORAS, es una programación complementaria de actividades de 
