@@ -5,7 +5,7 @@
 @tailwind utilities;
 
 .link{
-    @apply px-4 py-1 transition duration-500 rounded-3xl bg-background-menu hover:bg-menu hover:text-white;
+    @apply font-roboto font-light px-4 lg:text-base xl:text-lg py-1 transition duration-500 rounded-3xl bg-background-menu hover:bg-menu hover:text-white;
 }
 .index{
     @apply text-xs;
