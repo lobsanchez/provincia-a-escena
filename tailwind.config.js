@@ -20,6 +20,7 @@ export default {
       fontSize: {
         'xs': '.70rem',
       },
+      /* Animación de la marquesina de festival.php */
       animation: {
         marquee: 'marquee 25s linear infinite',
       },
@@ -29,7 +30,7 @@ export default {
           '100%': { transform: 'translateX(-100%)' },
         },
       },
-    
+    /*Fin animación marquesina */
     },
   },
   variants: {},

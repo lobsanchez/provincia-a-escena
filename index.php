@@ -19,10 +19,10 @@
    <body class="font-roboto">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
-          <section class="container py-12 mx-auto hero">
-            <h2 class="xl:text-[140px] lg:text-[110px] text-[60px] px-4 leading-tight font-anton "><span>IV FESTIVAL FAMILIAR PROVINCIA A ESCENA</span></h2> 
+          <section class="container py-16 mx-auto hero">
+            <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-4 leading-tight font-anton "><span>IV FESTIVAL FAMILIAR PROVINCIA A ESCENA</span></h2> 
             <div class="flex justify-start py-16">
-              <p class="w-3/6 xl:text-3xl lg:text-xl text-md px-4">FESTIVAL FAMILIAR<br> DE LAS ARTES ESCÉNICAS</p>
+              <p class="w-3/6 xl:text-3xl lg:text-xl text-lg px-4">FESTIVAL FAMILIAR<br> DE LAS ARTES ESCÉNICAS</p>
               <p class="w-3/6 xl:text-3xl lg:text-xl text-lg px-4">ESCUELA RURAL<br> DE ESPECTADORES/AS</p>
             </div>
           </section>

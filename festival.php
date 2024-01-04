@@ -7,20 +7,19 @@
 <!--[if !IE]><!-->
 <html lang="es">
 <!--<![endif]-->
-<head>
+   <head>
       <meta charset="utf-8">
       <meta name="author" content="Luis Óscar Bueno Sánchez">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta name="description" content="Proyecto final DIW - Provincia a escena">   
       <title>Provincia a escena </title>    
       <link rel="stylesheet" href="assets/css/dist/output.css" type="text/css"/>   
-      
    </head>
    <body class="font-roboto">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
-          <section class="container py-12 mx-auto hero">
-                <h2 class="xl:text-[140px] lg:text-[110px] text-[60px] px-4 leading-tight font-anton "><span>EL FESTIVAL</span></h2> 
+          <section class="container py-16 mx-auto hero">
+                <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-4 leading-tight font-anton "><span>EL FESTIVAL</span></h2> 
           </section>
         
           <section class="lg:flex">
@@ -123,4 +122,4 @@
         <?php include("assets/templates/footer.php"); ?> 
         <script src="assets/js/custom.js"></script>
    </body>   
- </html>
+</html>
