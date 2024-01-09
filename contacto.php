@@ -21,23 +21,51 @@
           <section class="container py-16 mx-auto hero">
                 <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-4 leading-tight font-anton "><span>CONTACTO</span></h2> 
           </section>
-        
-          <section class="lg:flex">
-                <div class="w-1/2 pt-16 px-16 text-center justify-center">
-                    <img src="assets/images/LG_PROVINCIA+ESCENA+blanco-01.png">
-                    <a class="text-4xl font-anton text-menu" href="#">CONTACTO</a>
-                    <p class="pt-5 text-lg text-menu">Rellena el formulario para solicitarnos cualquier información y nos pondremos en contacto contigo lo antes posible
-                    </p>
+          
+          <section class="container mx-auto lg:flex gap-5">            
+                <div class="w-2/3 px-4">
+                    <div class="container ">
+                        <h6 class="px-4 font-extralight py-12 text-xl">ENVÍANOS UN MENSAJE</h6>
+                        <p class="px-4 py-12 font-light text-3xl">RELLENA EL FORMULARIO PARA SOLICITARNOS CUALQUIER INFORMACIÓN Y NOS PONDREMOS EN CONTACTO CONTIGO LO ANTES POSIBLE.</p>
+                    </div>    
+                    <form>
+                        <div class="container px-4 pb-10 mx-auto grid md:grid-cols-2 md:gap-8">                  
+                            <div class="flex flex-col space-y-3">
+                                <label for="name" class="text-[#121212] text-lg font-light">Nombre (obligatorio)</label>
+                                <input type="text" name="name" id="name" class="bg-[#f0f0f0] text-lg px-4 rounded-[4px] h-14 w-full focus:outline-0 hover:border-black border focus:border-black focus:border">
+                            </div>
+                            <div class="flex flex-col space-y-3">
+                                <label for="last_name" class="text-[#121212] text-lg font-light">Apellidos</label>
+                                <input type="text" name="last_name" id="last_name" class="bg-[#f0f0f0] text-lg px-4 rounded-[4px] h-14 w-full focus:outline-0 hover:border-black border focus:border-black focus:border">
+                            </div>
+                        </div>
+                        <div class="flex flex-col space-y-3 px-4 pb-10">
+                            <label for="email" class="text-[#121212] text-lg font-light">Email (obligatorio)</label>
+                            <input type="text" name="email" id="email" class="bg-[#f0f0f0] text-lg px-4 rounded-[4px] h-14 w-full focus:outline-0 hover:border-black border focus:border-black focus:border">
+                        </div>
+                        <div class="flex flex-col space-y-3 px-4 pb-10">
+                            <label for="phone" class="text-[#121212] text-lg font-light">Teléfono</label>
+                            <input type="text" name="phone" id="phone" class="bg-[#f0f0f0] text-lg px-4 rounded-[4px] h-14 w-full focus:outline-0 hover:border-black border focus:border-black focus:border">
+                        </div>
+                        <div class="flex flex-col space-y-3 px-4 pb-10">
+                            <label for="subject" class="text-[#121212] text-lg font-light">Asunto (obligatorio)</label>
+                            <input type="text" name="subject" id="subject" class="bg-[#f0f0f0] text-lg px-4 rounded-[4px] h-14 w-full focus:outline-0 hover:border-black border focus:border-black focus:border">
+                        </div>
+                        <div class="flex flex-col space-y-3 px-4 pb-10">
+                            <label for="message" class="text-[#121212] text-lg font-light">Mensaje (obligatorio)</label>
+                            <textarea id="message" rows="4" class="bg-[#f0f0f0] text-lg px-4 rounded-[4px] w-full focus:outline-0 hover:border-black border focus:border-black focus:border"></textarea>
+                        </div>
+                        <div class="px-4 pb-10">
+                            <button type="submit" class="lg:text-lg xl:text-xl transition duration-500 rounded-[36px] text-white bg-black hover:border hover:border-black hover:bg-white hover:text-black font-normal text-sm w-full sm:w-auto px-6 py-4 text-center">ENVIAR</button>
+                        </div>
+                    </form>     
                 </div>
-                <div class="w-2/3 pt-16 px-16">
-                    <a class="text-4xl font-anton text-menu" href="#">DOS LÍNEAS DE INTERVENCIÓN: RECINTOS ESCÉNICOS Y CENTROS ESCOLARES</a>
-                    <p class="pt-5 text-lg text-menu"> El IV Festival Familiar de Artes Escénicas de la provincia de Salamanca desarrollará su parte troncal del 1 de octubre 
-                        al 25 de noviembre de 2023; comenzando en los meses de abril, mayo y junio también sus acciones complementarias para 
-                        escolares. Este programa, que contribuye a facilitar el acceso a la cultura a los ciudadanos de entornos rurales, se 
-                        desglosa en dos líneas de intervención: una programación multidisciplinar en recintos escénicos de una quincena de  
-                        municipios con menos de seis mil habitantes y un conjunto de actividades escénicas y didácticas destinadas a medio 
-                        centenar de centros escolares de la provincia, con atención preferencial a los Centros Rurales Agrupados. 
-                    </p>
+                <div class="container w-1/3 text-center mt-80">
+                    <img class="w-[80%] mx-auto pb-20"src="./assets/images/LG_PROVINCIA+ESCENA+blanco-01.png">
+                    <h6 class="px-4 font-extralight pt-20 text-xl">EMAIL</h6>
+                    <p class="px-4 py-2 font-light text-2xl">provinciaaescena@gmail.com</p>
+                    <h6 class="px-4 font-extralight pt-20 text-xl">WHATSAPP</h6>
+                    <p class="px-4 py-2 font-light text-2xl">636922702</p>
                 </div>
           </section>
         </main>
