@@ -5,8 +5,28 @@
 @tailwind utilities;
 
 .link{
-    @apply px-4 py-1 transition duration-500 rounded-3xl bg-background-menu hover:bg-menu hover:text-white;
+    @apply font-roboto font-light px-4 lg:text-base xl:text-lg py-1 transition duration-500 rounded-3xl bg-background-menu hover:bg-menu hover:text-white ;
 }
 .index{
     @apply text-xs;
 }
+.marquee {
+    width: 100%;
+    height: 90px;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+    overflow: hidden;
+  }
+  .marquee__content {
+    display: flex;
+    list-style: none;
+    animation: scrolling 10s linear infinite;
+  }
+  .marquee__item {
+    flex-shrink: 0;
+  }
+  
+  @keyframes scrolling {
+    0% { transform: translateX(0) }
+    100% { transform: translateX(-100%) }
+  }
