@@ -13,16 +13,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta name="description" content="Proyecto final DIW - Provincia a escena">   
       <title>Provincia a escena </title>    
-      <link rel="stylesheet" href="assets/css/dist/output.css" type="text/css"/>
-      <link rel="dns-prefetch" href="//unpkg.com" />
-                <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
-                <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
-
-                <style>
-                    [x-cloak] {
-                        display: none;
-                    }
-                </style>   
+      <link rel="stylesheet" href="assets/css/dist/output.css" type="text/css"/>   
    </head>
    <body class="font-roboto">
         <?php include("assets/templates/header.php"); ?>   	
@@ -78,7 +69,16 @@
             <!-- component -->
             <!-- This is an example component -->
             <div>
-               
+                <link rel="dns-prefetch" href="//unpkg.com" />
+                <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+                <link rel="stylesheet" href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css">
+                <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.x.x/dist/alpine.js" defer></script>
+
+                <style>
+                    [x-cloak] {
+                        display: none;
+                    }
+                </style>
 
                 <div class="antialiased sans-serif bg-white h-screen">
                 <div x-data="app()" x-init="[initDate(), getNoOfDays()]" x-cloak>
