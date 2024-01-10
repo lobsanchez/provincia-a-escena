@@ -18,8 +18,8 @@
    <body class="font-roboto">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
-          <section class="py-16 mx-auto text-right hero bg-[#ebca5f]">
-            <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-16 leading-tight font-anton text-black "><span>ESCUELA RURAL DE ESPECTADORES Y ESPECTADORAS</span></h2> 
+          <section class="py-16 mx-auto text-right hero ">
+            <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-16 leading-tight font-anton text-black animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>ESCUELA RURAL DE ESPECTADORES Y ESPECTADORAS</span></h2> 
           </section>
           <section class="lg:flex flex-wrap bg-[#ebca5f] justify-center py-16 px-6">
                 <h2 class="xl:text-[80px] lg:text-[60px] text-[30px] px-4 font-anton text-left "><span>ACCIONES COMPLEMENTARIAS PARA ESCOLARES</span></h2> 

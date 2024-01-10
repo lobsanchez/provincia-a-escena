@@ -24,15 +24,15 @@
                     }
                 </style>   
    </head>
-   <body class="font-roboto">
+   <body class="font-roboto" id="top">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
           <section class="py-16 mx-auto text-right hero bg-black">
-            <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-16 leading-tight font-anton text-white "><span>PROGRAMACIÓN FESTIVAL FAMILIAR DE ARTES ESCÉNICAS</span></h2> 
+            <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-16 leading-tight font-anton text-white animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>PROGRAMACIÓN FESTIVAL FAMILIAR DE ARTES ESCÉNICAS</span></h2> 
           </section>
           <section class="lg:flex flex-wrap bg-black justify-center pb-16">
                 
-                <div class="pt-12 px-12">
+                <div class="pt-12 px-12 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
                     <!-- <div class="w-[424px] h-[400px] bg-[#343363] text-center text-6xl text-white align-middle hover:text-[#343363] hover:bg-[url('../../images/sanctispiritus_foto_bn.jpg')]">SANCTI SPIRITUS</div> -->
                     <img class="hover:bg-"src="assets/images/sancti_spiritus_mini.jpg"> 
                 </div>
@@ -73,7 +73,8 @@
          
           <section class="">        
             <div class="pt-16 px-16">
-                <h2 id="calendario" class="xl:text-[120px] lg:text-[100px] text-[60px] px-16 leading-tight font-anton "><span>CALENDARIO</span></h2> 
+                <h2 id="calendario" class="inline-block xl:text-[120px] lg:text-[100px] text-[60px] px-16 leading-tight font-anton animate-fade animate-once animate-duration-1000 animate-ease-linear"><span>CALENDARIO</span></h2>
+                <div class="inline-block  float-end"><a href="#top"><img class="h-28 animate-jump animate-once animate-duration-700 animate-delay-700 animate-ease-linear" src="assets/images/flecha-arriba.png"></a></div> 
             </div>
             <!-- component -->
             <!-- This is an example component -->

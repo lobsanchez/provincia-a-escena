@@ -15,11 +15,11 @@
       <title>Provincia a escena </title>    
       <link rel="stylesheet" href="assets/css/dist/output.css" type="text/css"/>   
    </head>
-   <body class="font-roboto">
+   <body class="">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
           <section class="container py-16 mx-auto hero">
-                <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-4 leading-tight font-anton "><span>EL FESTIVAL</span></h2> 
+                <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-4 leading-tight font-anton animate-fade-left animate-once animate-duration-700 animate-ease-linear"><span>EL FESTIVAL</span></h2> 
           </section>
         
           <section class="lg:flex">
@@ -93,7 +93,7 @@
                 </article>
                 <article class="overflow-x-hidden pt-16">
                     <P class="text-4xl font-anton text-menu" href="#">ESPACIOS PARTICIPANTES</P>    
-                    <div class="py-6 animate-marquee whitespace-nowrap">
+                    <div class="py-5 animate-marquee whitespace-nowrap">
                         <span class="text-xl">&nbsp;Centro Cultural Santa Ana de Macotera &bull; </span>
                         <span class="text-xl">&nbsp;Auditorio de Ledesma &bull; </span>
                         <span class="text-xl">&nbsp;Teatro Municipal de Villoria &bull; </span>

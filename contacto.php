@@ -19,7 +19,7 @@
         <?php include("assets/templates/header.php"); ?>   	
         <main>
           <section class="container py-16 mx-auto hero">
-                <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-4 leading-tight font-anton "><span>CONTACTO</span></h2> 
+                <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-4 leading-tight font-anton animate-fade-up animate-duration-700 animate-ease-linear animate-normal"><span>CONTACTO</span></h2> 
           </section>
           
           <section class="container mx-auto lg:flex gap-5">            
