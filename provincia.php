@@ -32,41 +32,41 @@
           </section>
           <section class="lg:flex flex-wrap bg-black justify-center pb-16">
                 
-                <div class="pt-12 px-12 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300">
+                <div class="pt-12 px-12 link_village">
                     <!-- <div class="w-[424px] h-[400px] bg-[#343363] text-center text-6xl text-white align-middle hover:text-[#343363] hover:bg-[url('../../images/sanctispiritus_foto_bn.jpg')]">SANCTI SPIRITUS</div> -->
-                    <img class="hover:bg-"src="assets/images/sancti_spiritus_mini.jpg"> 
+                    <a href="teatro-poniente.php"><img class="hover:bg-"src="assets/images/sancti_spiritus_mini.jpg"></a> 
                 </div>
-                <div class="pt-12 px-12">
+                <div class="pt-12 px-12 link_village">
                     <img src="assets/images/lumbrales_mini.jpg">
                 </div>
-                <div class="pt-12 px-12">
+                <div class="pt-12 px-12 link_village">
                     <img src="assets/images/villoria_mini.jpg"> 
                 </div>
-                <div class="pt-12 px-12">
+                <div class="pt-12 px-12 link_village">
                     <img src="assets/images/macotera_mini.jpg">
                 </div>
-                <div class="pt-12 px-12">
+                <div class="pt-12 px-12 link_village">
                     <img src="assets/images/aldeadavila_de_la_ribera_mini.jpg">
                 </div>
-                <div class="pt-12 px-12">
+                <div class="pt-12 px-12 link_village">
                     <img src="assets/images/alba_de_tormes_mini.jpg">
                 </div>
-                <div class="pt-12 px-12">
+                <div class="pt-12 px-12 link_village">
                     <img src="assets/images/monleras_mini.jpg">
                 </div>
-                <div class="pt-12 px-12">
+                <div class="pt-12 px-12 link_village">
                     <img src="assets/images/doñinos_de_salamanca_mini.jpg">
                 </div>
-                <div class="pt-12 px-12">
+                <div class="pt-12 px-12 link_village">
                     <img src="assets/images/sequeros_mini.jpg">
                 </div>
-                <div class="pt-12 px-12">
+                <div class="pt-12 px-12 link_village">
                     <img src="assets/images/guijuelo_mini.jpg">
                 </div>
-                <div class="pt-12 px-12">
+                <div class="pt-12 px-12 link_village">
                     <img src="assets/images/vitigudino_mini.jpg"> 
                 </div>
-                <div class="pt-12 px-12">
+                <div class="pt-12 px-12 link_village">
                     <img src="assets/images/ledesma_mini.jpg">
                 </div>         
           </section>
