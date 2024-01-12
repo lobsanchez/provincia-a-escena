@@ -39,21 +39,29 @@
                     <li class="text-neutral-500 dark:text-neutral-300">SANCTI SPIRITUS</li>
                 </ol>
             </nav>
-          <section class="lg:flex flex-wrap bg-black justify-center py-16 px-6">
-          
-            <p class="pt-5 text-lg text-menu">
-                Durante los meses de otoño se han programado 18 funciones para colectivos escolares, completando las dinámicas educativas iniciadas en la primera edición de Provincia
-                a Escena con diferentes colegios rurales agrupados de la provincia de Salamanca y abriendo la oportunidad de llevar las acciones escénicas a colegios de nuevos 
-                municipios. Se han programado 18 funciones escénicas de teatro, títeres y circo en las que participarán escolares de medio centenar de pueblos diferentes y otra 
-                quincena de funciones en centros escolares. 
-            </p>
-            <p class="pt-5 text-lg text-menu">
-                En los meses de octubre y noviembre se extenderán las actividades  con una programación específica para alumnado de educación infantil, primaria y secundaria; 
-                combinando la programación escénica en teatros municipales específica para colegios e institutos, con el desarrollo de espectáculos de pequeño formato sin exigencias 
-                técnicas que serán desarrollados en los propios centros escolares por compañías emergentes salmantinas (con la doble intención de apoyar la creación de jóvenes 
-                artistas y la de disponer de espectáculos adaptado a las necesidades de los colegios rurales agrupados), al amparo de un conjunto de actividades didácticas y de 
-                formación, talleres y coloquios con las compañías, de la mano de profesionales de la mediación cultural y educativa.
-            </p>
+          <section class="lg:flex flex-wrap text-white bg-black justify-center py-16 px-6">
+            <img src="assets/images/TEATRO+DE+PONIENTE.jpg" class="w-1/2">
+           <div class="w-1/2 px-6">
+                <h3 class="pt-2 text-xl text-center">SANCTI SPIRITUS</h3>
+                <p class="pt-2 text-lg text-center">Centro cultural</p>
+                <p class="pt-2 text-lg text-center">Domingo, 1 de octubre</p>
+                <p class="pt-2 text-lg text-center">18:30 horas
+                <p class="pt-5 text-lg  ">OBRA:  Las buscadoras de las palabras</p>
+                <p class="pt-5 text-lg  ">COMPAÑÍA: Teatro de Poniente</p>
+                <p class="pt-5 text-lg  ">WEB:  www.teatrodeponiente.com</p>
+                <p class="pt-5 text-lg  ">PROCEDENCIA: Castilla y León/Salamanca</p>
+                <p class="pt-5 text-lg  ">DURACIÓN: 60 minutos</p>
+                <p class="pt-5 text-lg  ">FORMATO: Teatro</p>
+                <p class="pt-5 text-lg  ">MIRA UN POQUITO: https://www.youtube.com/watch?v=bUcwdJ-Y-bg&t=1s</p>
+                <p class="pt-5 text-lg  ">PRemios: Compañía nominada Premios Max 2023</p>
+            </div>
+            <div class="">
+                <p class="pt-5 text-lg  ">SINOPSIS:</p>
+                <p class="pt-5 text-lg  ">Rita Peripecia y Lola Molécula son las protagonistas de nuestra aventura. Dos exploradoras que viajan por el universo buscando las palabras más bonitas del mundo, reales e inventadas, que se han ido a esconder en los libros de aventuras para niños y jóvenes más importantes de la Literatura Universal. Rita Peripecia es una soñadora sin miedo a nada. Una viajera intrépida, valiente, y atrevida a quien ningún peligro frena. Junto a ella viaja Lola Molécula, una audaz y extravagante científica que no para de inventar objetos de lo más curiosos, para conseguir llevar a cabo la misión.</p>
+                <p class="pt-5 text-lg  ">Junto a nuestras protagonistas viajaremos a Las aventuras del Rey Arturo, La Isla del Tesoro, Los viajes de Gullliver, La vuelta al mundo en 80 días, Alicia en el país de las maravillas, La Historia Interminable o a Los tres mosqueteros.</p>
+            </div>    
+                
+            
           </section>
 
          
