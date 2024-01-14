@@ -34,13 +34,13 @@
                 
                 <div class="pt-12 px-12 link_village">
                     <!-- <div class="w-[424px] h-[400px] bg-[#343363] text-center text-6xl text-white align-middle hover:text-[#343363] hover:bg-[url('../../images/sanctispiritus_foto_bn.jpg')]">SANCTI SPIRITUS</div> -->
-                    <a href="teatro-poniente.php"><img class="hover:bg-"src="assets/images/sancti_spiritus_mini.jpg"></a> 
+                    <a href="sancti-spiritus.php"><img class="hover:bg-"src="assets/images/sancti_spiritus_mini.jpg"></a> 
                 </div>
                 <div class="pt-12 px-12 link_village">
-                    <img src="assets/images/lumbrales_mini.jpg">
+                <a href="lumbrales.php"><img src="assets/images/lumbrales_mini.jpg"></a>
                 </div>
                 <div class="pt-12 px-12 link_village">
-                    <img src="assets/images/villoria_mini.jpg"> 
+                <a href="villoria.php"><img src="assets/images/villoria_mini.jpg"></a> 
                 </div>
                 <div class="pt-12 px-12 link_village">
                     <img src="assets/images/macotera_mini.jpg">

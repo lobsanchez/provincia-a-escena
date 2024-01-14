@@ -7,7 +7,7 @@
             <ul class="hidden links lg:flex items-center justify-center gap-1 px-4 py-1 rounded-full menu text-menu">
                 <li class="link"><a href="festival.php"><span>EL FESTIVAL</span></a></li>
                 <li class="link"><a href="provincia.php"><span>PROVINCIA<sup class="index">A ESCENA</sup></span></a></li>
-                <li class="link"><a href="provincia.php#calendario"><span>CALENDARIO</span></a></li>
+                <li class="link"><a href="provincia.php#calendario" ><span>CALENDARIO</span></a></li>
                 <li class="link"><a href="escuela.php"><span>ESCUELA<sup class="index">DE ESPECTADORES</sup></span></a></li>
                 <li class="link"><a href="contacto.php"><span>CONTACTO</span></a></li>
             </ul>

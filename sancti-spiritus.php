@@ -39,32 +39,32 @@
                     <li class="text-neutral-500 dark:text-neutral-300">SANCTI SPIRITUS</li>
                 </ol>
             </nav>
-          <section class="lg:flex flex-wrap text-white bg-black justify-center py-16 px-6">
+          <section class="lg:flex flex-wrap text-white bg-sancti justify-center py-16 px-6">
             <img src="assets/images/TEATRO+DE+PONIENTE.jpg" class="w-1/2">
            <div class="w-1/2 px-6">
-                <h3 class="pt-2 text-xl text-center">SANCTI SPIRITUS</h3>
-                <p class="pt-2 text-lg text-center">Centro cultural</p>
-                <p class="pt-2 text-lg text-center">Domingo, 1 de octubre</p>
-                <p class="pt-2 text-lg text-center">18:30 horas
-                <p class="pt-5 text-lg  ">OBRA:  Las buscadoras de las palabras</p>
-                <p class="pt-5 text-lg  ">COMPAÑÍA: Teatro de Poniente</p>
-                <p class="pt-5 text-lg  ">WEB:  www.teatrodeponiente.com</p>
-                <p class="pt-5 text-lg  ">PROCEDENCIA: Castilla y León/Salamanca</p>
-                <p class="pt-5 text-lg  ">DURACIÓN: 60 minutos</p>
-                <p class="pt-5 text-lg  ">FORMATO: Teatro</p>
-                <p class="pt-5 text-lg  ">MIRA UN POQUITO: https://www.youtube.com/watch?v=bUcwdJ-Y-bg&t=1s</p>
-                <p class="pt-5 text-lg  ">PRemios: Compañía nominada Premios Max 2023</p>
-            </div>
-            <div class="">
-                <p class="pt-5 text-lg  ">SINOPSIS:</p>
-                <p class="pt-5 text-lg  ">Rita Peripecia y Lola Molécula son las protagonistas de nuestra aventura. Dos exploradoras que viajan por el universo buscando las palabras más bonitas del mundo, reales e inventadas, que se han ido a esconder en los libros de aventuras para niños y jóvenes más importantes de la Literatura Universal. Rita Peripecia es una soñadora sin miedo a nada. Una viajera intrépida, valiente, y atrevida a quien ningún peligro frena. Junto a ella viaja Lola Molécula, una audaz y extravagante científica que no para de inventar objetos de lo más curiosos, para conseguir llevar a cabo la misión.</p>
-                <p class="pt-5 text-lg  ">Junto a nuestras protagonistas viajaremos a Las aventuras del Rey Arturo, La Isla del Tesoro, Los viajes de Gullliver, La vuelta al mundo en 80 días, Alicia en el país de las maravillas, La Historia Interminable o a Los tres mosqueteros.</p>
-            </div>    
-                
-            
+                <h3 class="pt-2 px-8 text-4xl font-semibold text-center animate-jump-in animate-once animate-duration-1000 animate-delay-1000 animate-ease-in-out">SANCTI SPIRITUS</h3>
+                <div class="text-xl font-semibold text-center ">
+                    <p class=" ">Centro cultural</p>
+                    <p class=" ">Domingo, 1 de octubre</p>
+                    <p class="">18:30 horas</p>
+                </div>
+                <div class="px-8 py-10 text-lg leading-10 font-light">
+                    <p><span class="font-semibold">OBRA:</span>  Las buscadoras de las palabras</p>
+                    <p><span class="font-semibold">COMPAÑÍA:</span> Teatro de Poniente</p>
+                    <p><span class="font-semibold">WEB:</span>  www.teatrodeponiente.com</p>
+                    <p><span class="font-semibold">PROCEDENCIA:</span> Castilla y León/Salamanca</p>
+                    <p><span class="font-semibold">DURACIÓN:</span> 60 minutos</p>
+                    <p><span class="font-semibold">FORMATO:</span> Teatro</p>
+                    <p><span class="font-semibold">MIRA UN POQUITO:</span>https://www.youtube.com/watch?v=bUcwdJ-Y-bg&t=1s</p>
+                    <p><span class="font-semibold">Premios:</span> Compañía nominada Premios Max 2023</p>
+                </div>
+                <div class="px-8 py-10 text-xl leading-8 font-light">    
+                    <p class="pt-6 font-semibold">SINOPSIS:</p>
+                    <p class="pt-6">Rita Peripecia y Lola Molécula son las protagonistas de nuestra aventura. Dos exploradoras que viajan por el universo buscando las palabras más bonitas del mundo, reales e inventadas, que se han ido a esconder en los libros de aventuras para niños y jóvenes más importantes de la Literatura Universal. Rita Peripecia es una soñadora sin miedo a nada. Una viajera intrépida, valiente, y atrevida a quien ningún peligro frena. Junto a ella viaja Lola Molécula, una audaz y extravagante científica que no para de inventar objetos de lo más curiosos, para conseguir llevar a cabo la misión.</p>
+                    <p class="pt-6">Junto a nuestras protagonistas viajaremos a Las aventuras del Rey Arturo, La Isla del Tesoro, Los viajes de Gullliver, La vuelta al mundo en 80 días, Alicia en el país de las maravillas, La Historia Interminable o a Los tres mosqueteros.</p>
+                </div>
+            </div>  
           </section>
-
-         
         </main>
         <?php include("assets/templates/footer.php"); ?> 
         <script src="assets/js/custom.js"></script>
