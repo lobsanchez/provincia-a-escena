@@ -53,9 +53,9 @@
                 </div>
           </section>
           <img class="pt-16" src="assets/images/PEZ+LUNA_5.jpg">        
-          <section class="lg:flex">        
-            <img class="pt-16 lg:w-1/3" src="assets/images/BOMBILLA+IZQDA+++GRAFISMO.png">  
-            <div class="pt-16 px-16">
+          <section class="lg:flex pt-16">        
+            <img class="lg:w-1/3" src="assets/images/BOMBILLA+IZQDA+++GRAFISMO.png">  
+            <div class="px-16 lg:w-1/3">
                 <a class="text-4xl font-anton text-menu" href="#">UNA INVITACIÓN A CONOCER LA PROVINCIA DE SALAMANCA, SUS PUEBLOS Y SUS TEATROS</a> 
                 <p class="pt-5 text-lg text-menu">PROVINCIA A ESCENA invita a descubrir la provincia de Salamanca, sus pueblos y sus teatros. La programación 
                 escénica está integrada por algunas de las principales compañías nacionales especializadas en público infantil y 
@@ -63,7 +63,7 @@
                 sin renunciar al componente lúdico y divertido del ejercicio escénico.
                 </p>
             </div>
-            <div class="pt-16 px-16">
+            <div class=" px-16 lg:w-1/3">
                 <a class="text-4xl font-anton text-menu" href="#">LAS ENTRADAS SON GRATUITAS HASTA COMPLETAR EL AFORO</a>
                 <p class="pt-5 text-lg text-menu">ENTRADAS: Las entradas para ver los espectáculos programados en Provincia a Escena los fines de semana, son gratuitas hasta completar el aforo. 
                 Cada espacio escénico puede gestionar la entrada del público acorde a sus dinámicas habituales de programación, ofreciendo la posibilidad de  

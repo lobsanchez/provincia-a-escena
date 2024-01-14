@@ -28,7 +28,7 @@
           </section>
         
           <section class="lg:flex festival_familiar bg-background-1">
-            <div class="p-20">
+            <div class="p-20 w-1/2">
               <a class="text-6xl font-anton text-menu" href="#">FESTIVAL FAMILIAR</a>
               <p class="py-6 text-lg text-menu">EL IV FESTIVAL FAMILIAR DE LAS ARTES ESCÉNICAS contribuye a facilitar el acceso a la cultura a los ciudadanos 
                 de entornos rurales con una programación multidisciplinar en recintos escénicos de una quincena de municipios 
@@ -36,11 +36,11 @@
               </p>
               <button class="mt-6 px-4 py-1 transition duration-500 rounded-3xl text-lg text-white bg-menu hover:bg-white hover:text-menu">PROGRAMACIÓN ESCÉNICA</button>
             </div>
-            <img class="lg:w-3/6" src="assets/images/web+inicio.png">
+            <img class="lg:w-1/2 " src="assets/images/web+inicio.png">
           </section>
          
           <section class="lg:flex escuela_espectadores bg-background-2">
-            <div class="p-20">
+            <div class="p-20 w-1/2">
               <a class="py-6 text-6xl font-anton text-menu" href="#">ESCUELA RURAL DE ESPECTADORES</a>
               <p class="py-6 text-lg text-menu">LA ESCUELA RURAL DE ESPECTADORES Y ESPECTADORAS, es una programación complementaria de actividades de 
                 formación de públicos en colegios e institutos de la provincia de Salamanca, con atención preferencial 
@@ -48,7 +48,7 @@
               </p>
               <button class="mt-6 px-4 py-1 transition duration-500 rounded-3xl text-lg text-white bg-menu hover:bg-white hover:text-menu">PROGRAMACIÓN ALUMNADO</button>
             </div>
-            <img class="lg:w-3/6" src="assets/images/web+inicio2.png">
+            <img class="lg:w-1/2" src="assets/images/web+inicio2.png">
           </section>
         </main>
         <?php include("assets/templates/footer.php"); ?> 

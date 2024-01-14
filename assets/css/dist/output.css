@@ -1837,16 +1837,6 @@ video {
   background-color: rgb(255 255 255 / var(--tw-bg-opacity));
 }
 
-.focus\:bg-menu:focus{
-  --tw-bg-opacity: 1;
-  background-color: rgb(18 18 18 / var(--tw-bg-opacity));
-}
-
-.focus\:text-white:focus{
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
 .focus\:outline-none:focus{
   outline: 2px solid transparent;
   outline-offset: 2px;
@@ -1895,6 +1885,10 @@ video {
   }
 
   .lg\:w-3\/6{
+    width: 50%;
+  }
+
+  .lg\:w-1\/2{
     width: 50%;
   }
 
