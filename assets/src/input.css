@@ -9,6 +9,9 @@
     @apply font-roboto font-light px-4 lg:text-base xl:text-lg py-1 transition duration-500 rounded-3xl bg-background-menu hover:bg-menu hover:text-white ;
 }
 
+.active{
+    @apply bg-menu text-white ;
+}
 /*Animación card pueblos de provincia.php */
 .link_village{
   @apply transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300;
