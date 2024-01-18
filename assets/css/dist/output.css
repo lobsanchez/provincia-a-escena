@@ -1653,6 +1653,10 @@ video {
   animation-duration: 700ms;
 }
 
+.animate-duration-300{
+  animation-duration: 300ms;
+}
+
 .animate-once{
   animation-iteration-count: 1;
 }

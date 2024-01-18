@@ -1,4 +1,5 @@
-<?php require_once("assets/config/config.php"); ?>
+<?php require_once("assets/config/config.php");
+$pagina = 0;?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>   <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="es"> <![endif]-->
 <!--[if IE 7]> 		<html class="no-js lt-ie9 lt-ie8" lang="es"> <![endif]-->
@@ -20,7 +21,7 @@
         <?php include("assets/templates/header.php"); ?>   	
         <main>
           <section class="container py-16 mx-auto hero">
-            <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-4 leading-tight font-anton animate-fade-up animate-once animate-duration-700 animate-delay-0 animate-ease-linear"><span>IV FESTIVAL FAMILIAR PROVINCIA A ESCENA</span></h2> 
+            <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-4 leading-tight font-anton animate-fade-up animate-once animate-duration-300 animate-delay-0 animate-ease-linear"><span>IV FESTIVAL FAMILIAR PROVINCIA A ESCENA</span></h2> 
             <div class="flex justify-start py-16">
               <p class="w-3/6 xl:text-3xl lg:text-xl text-lg px-4">FESTIVAL FAMILIAR<br> DE LAS ARTES ESCÉNICAS</p>
               <p class="w-3/6 xl:text-3xl lg:text-xl text-lg px-4">ESCUELA RURAL<br> DE ESPECTADORES/AS</p>
