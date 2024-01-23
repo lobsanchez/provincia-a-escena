@@ -1,6 +1,6 @@
 <header class="container mx-auto">
     <div class="bg-white mx auto">
-        <nav class="flex items-center mx-auto my-5 px-6 justify-between animate-fade-down animate-once animate-duration-500 animate-delay-500 animate-ease-linear">
+        <nav class="flex items-center mx-auto my-5 px-6 justify-between animate-fade-down animate-once animate-duration-500 animate-delay-1000 animate-ease-linear">
             <a href="index.php" class="enlace">
                 <img class="h-14 lg:h-16 xl:h-[80px] " src="assets/images/logo-provincia-low.png" width="Logotipo">
             </a>

@@ -36,12 +36,24 @@ export default {
       /* Animación de la marquesina de festival.php */
       animation: {
         marquee: 'marquee 25s linear infinite',
+        fadeup: 'fade-up 1s both',
       },
       keyframes: {
         marquee: {
           '0%': { transform: 'translateX(0%)' },
           '100%': { transform: 'translateX(-100%)' },
         },
+        fadeup: {
+          '0%':  {
+              opacity: '0.5',
+              transform: 'translateY(600px)',
+          },
+          '100%': {
+              opacity: '1',
+              transform: 'translateY(0)',
+          },
+      }
+      
       },
     /*Fin animación marquesina */
     },

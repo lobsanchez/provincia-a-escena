@@ -1,4 +1,5 @@
-<?php require_once("assets/config/config.php"); ?>
+<?php require_once("assets/config/config.php"); 
+$pagina=2;?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>   <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="es"> <![endif]-->
 <!--[if IE 7]> 		<html class="no-js lt-ie9 lt-ie8" lang="es"> <![endif]-->
@@ -39,10 +40,10 @@
                     <li class="text-neutral-500 dark:text-neutral-300">SANCTI SPIRITUS</li>
                 </ol>
             </nav>
-          <section class="lg:flex flex-wrap text-white bg-sancti justify-center py-16 px-6">
-            <img src="assets/images/TEATRO+DE+PONIENTE.jpg" class="w-1/2">
+          <section class="lg:flex flex-wrap text-white bg-black justify-center py-16 px-6">
+            <img src="assets/images/TEATRO+DE+PONIENTE_mini.jpg" class="w-1/2">
            <div class="w-1/2 px-6">
-                <h3 class="pt-2 px-8 text-4xl font-semibold text-center animate-jump-in animate-once animate-duration-1000 animate-delay-1000 animate-ease-in-out">SANCTI SPIRITUS</h3>
+                <h3 class="pt-2 px-8 text-6xl font-bold text-center animate-jump-in animate-once animate-duration-1000 animate-delay-1000 animate-ease-in-out">SANCTI SPIRITUS</h3>
                 <div class="text-xl font-semibold text-center ">
                     <p class=" ">Centro cultural</p>
                     <p class=" ">Domingo, 1 de octubre</p>

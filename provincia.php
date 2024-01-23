@@ -38,37 +38,37 @@ $pagina=2; ?>
                     <a href="sancti-spiritus.php"><img class="hover:bg-"src="assets/images/sancti_spiritus_mini.jpg"></a> 
                 </div>
                 <div class="pt-12 px-12 link_village">
-                <a href="lumbrales.php"><img src="assets/images/lumbrales_mini.jpg"></a>
+                    <a href="lumbrales.php"><img src="assets/images/lumbrales_mini.jpg"></a>
                 </div>
                 <div class="pt-12 px-12 link_village">
-                <a href="villoria.php"><img src="assets/images/villoria_mini.jpg"></a> 
+                    <a href="villoria.php"><img src="assets/images/villoria_mini.jpg"></a> 
                 </div>
                 <div class="pt-12 px-12 link_village">
-                    <img src="assets/images/macotera_mini.jpg">
+                    <a href="macotera.php"><img src="assets/images/macotera_mini.jpg"></a>    
                 </div>
                 <div class="pt-12 px-12 link_village">
-                    <img src="assets/images/aldeadavila_de_la_ribera_mini.jpg">
+                <a href="aldeadavila.php"><img src="assets/images/aldeadavila_de_la_ribera_mini.jpg"></a>
                 </div>
                 <div class="pt-12 px-12 link_village">
-                    <img src="assets/images/alba_de_tormes_mini.jpg">
+                    <a href="albadetormes.php"><img src="assets/images/alba_de_tormes_mini.jpg"></a>
                 </div>
                 <div class="pt-12 px-12 link_village">
-                    <img src="assets/images/monleras_mini.jpg">
+                    <a href="monleras.php"><img src="assets/images/monleras_mini.jpg"></a>
                 </div>
                 <div class="pt-12 px-12 link_village">
-                    <img src="assets/images/doñinos_de_salamanca_mini.jpg">
+                    <a href="doninos.php"><img src="assets/images/doñinos_de_salamanca_mini.jpg"></a>
                 </div>
                 <div class="pt-12 px-12 link_village">
-                    <img src="assets/images/sequeros_mini.jpg">
+                    <a href="sequeros.php"><img src="assets/images/sequeros_mini.jpg"></a>
                 </div>
                 <div class="pt-12 px-12 link_village">
-                    <img src="assets/images/guijuelo_mini.jpg">
+                    <a href="guijuelo.php"><img src="assets/images/guijuelo_mini.jpg"></a>
                 </div>
                 <div class="pt-12 px-12 link_village">
-                    <img src="assets/images/vitigudino_mini.jpg"> 
+                    <a href="vitigudino.php"><img src="assets/images/vitigudino_mini.jpg"></a> 
                 </div>
                 <div class="pt-12 px-12 link_village">
-                    <img src="assets/images/ledesma_mini.jpg">
+                    <a href="ledesma.php"><img src="assets/images/ledesma_mini.jpg"></a>
                 </div>         
           </section>
          
