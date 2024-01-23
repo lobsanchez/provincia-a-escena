@@ -57,7 +57,7 @@ $pagina=5; ?>
                             <textarea id="message" rows="4" class="bg-[#f0f0f0] text-lg px-4 rounded-[4px] w-full focus:outline-0 hover:border-black border focus:border-black focus:border"></textarea>
                         </div>
                         <div class="px-4 pb-10">
-                            <button type="submit" class="lg:text-lg xl:text-xl transition duration-500 rounded-[36px] text-white bg-black hover:border hover:border-black hover:bg-white hover:text-black font-normal text-sm w-full sm:w-auto px-6 py-4 text-center">ENVIAR</button>
+                            <button type="submit" class="lg:text-lg xl:text-xl transition duration-500 rounded-[36px] text-white bg-black  hover:border-black hover:bg-background-menu hover:text-black font-normal text-sm w-full sm:w-auto px-6 py-4 text-center">ENVIAR</button>
                         </div>
                     </form>     
                 </div>

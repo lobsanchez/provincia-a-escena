@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto:wght@100;300;400;500;700;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -35,11 +35,5 @@
   .marquee__item {
     flex-shrink: 0;
   }
-  /*
-  @keyframes scrolling {
-    0% { transform: translateX(0) }
-    100% { transform: translateX(-100%) }
-  }
-*/
-
+ 
 /*Necesario instalar tailwindcss-animated*/

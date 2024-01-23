@@ -584,6 +584,10 @@ video {
   pointer-events: none;
 }
 
+.invisible{
+  visibility: hidden;
+}
+
 .fixed{
   position: fixed;
 }
@@ -909,6 +913,22 @@ video {
   animation: fade-up 1s both;
 }
 
+@keyframes fade-up{
+  0%{
+    opacity: 0;
+    transform: translateY(2rem);
+  }
+
+  100%{
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fadeup{
+  animation: fade-up 1s both;
+}
+
 @keyframes jump{
   0%, 100%{
     transform: scale(100%);
@@ -1203,11 +1223,6 @@ video {
   background-color: rgb(220 252 231 / var(--tw-bg-opacity));
 }
 
-.bg-lumbrales{
-  --tw-bg-opacity: 1;
-  background-color: rgb(251 164 51 / var(--tw-bg-opacity));
-}
-
 .bg-menu{
   --tw-bg-opacity: 1;
   background-color: rgb(18 18 18 / var(--tw-bg-opacity));
@@ -1221,16 +1236,6 @@ video {
 .bg-red-100{
   --tw-bg-opacity: 1;
   background-color: rgb(254 226 226 / var(--tw-bg-opacity));
-}
-
-.bg-sancti{
-  --tw-bg-opacity: 1;
-  background-color: rgb(52 51 99 / var(--tw-bg-opacity));
-}
-
-.bg-villoria{
-  --tw-bg-opacity: 1;
-  background-color: rgb(153 255 255 / var(--tw-bg-opacity));
 }
 
 .bg-white{
@@ -1621,16 +1626,8 @@ video {
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.animate-delay-0{
-  animation-delay: 0ms;
-}
-
 .animate-delay-1000{
   animation-delay: 1000ms;
-}
-
-.animate-delay-500{
-  animation-delay: 500ms;
 }
 
 .animate-delay-700{
@@ -1651,10 +1648,6 @@ video {
 
 .animate-duration-700{
   animation-duration: 700ms;
-}
-
-.animate-duration-300{
-  animation-duration: 300ms;
 }
 
 .animate-once{
@@ -1757,18 +1750,7 @@ video {
   flex-shrink: 0;
 }
 
-/*
-  @keyframes scrolling {
-    0% { transform: translateX(0) }
-    100% { transform: translateX(-100%) }
-  }
-*/
-
 /*Necesario instalar tailwindcss-animated*/
-
-.hover\:border:hover{
-  border-width: 1px;
-}
 
 .hover\:border-black:hover{
   --tw-border-opacity: 1;
@@ -1778,6 +1760,10 @@ video {
 .hover\:border-gray-500:hover{
   --tw-border-opacity: 1;
   border-color: rgb(107 114 128 / var(--tw-border-opacity));
+}
+
+.hover\:bg-background-menu:hover{
+  background-color: rgba(0,0,0,.1);
 }
 
 .hover\:bg-blue-200:hover{
