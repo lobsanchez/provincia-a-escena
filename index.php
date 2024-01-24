@@ -23,31 +23,36 @@ $pagina = 0;?>
           <section class="container py-16 mx-auto hero">
             <h2 class="xl:text-[190px] lg:text-[140px] text-[60px] px-4 leading-tight font-anton animate-fadeup"><span>IV FESTIVAL FAMILIAR PROVINCIA A ESCENA</span></h2> 
             <div class="flex justify-start py-16">
-              <p class="w-3/6 xl:text-3xl lg:text-xl text-lg px-4">FESTIVAL FAMILIAR<br> DE LAS ARTES ESCÉNICAS</p>
-              <p class="w-3/6 xl:text-3xl lg:text-xl text-lg px-4">ESCUELA RURAL<br> DE ESPECTADORES/AS</p>
+              <p class="w-3/6 px-4 text-lg xl:text-3xl lg:text-xl">FESTIVAL FAMILIAR<br> DE LAS ARTES ESCÉNICAS</p>
+              <p class="w-3/6 px-4 text-lg xl:text-3xl lg:text-xl">ESCUELA RURAL<br> DE ESPECTADORES/AS</p>
             </div>
           </section>
         
-          <section class="lg:flex festival_familiar bg-background-1">
-            <div class="p-20 w-2/5">
-              <h2 class="text-6xl font-anton text-menu" href="#">FESTIVAL FAMILIAR</h2>
-              <p class="py-6 text-lg text-menu">EL IV FESTIVAL FAMILIAR DE LAS ARTES ESCÉNICAS contribuye a facilitar el acceso a la cultura a los ciudadanos 
-                de entornos rurales con una programación multidisciplinar en recintos escénicos de una quincena de municipios 
-                de menos de seis mil habitantes.
-              </p>
-              <button class="mt-6 px-4 py-1 transition duration-500 rounded-3xl text-lg text-white bg-menu hover:bg-white hover:text-menu"><a href="provincia.php">PROGRAMACIÓN ESCÉNICA</a></button>
+          <section class=" festival_familiar bg-background-1">
+            <div class="container mx-auto lg:flex">
+              <div class="w-2/5 p-20">
+                <h2 class="text-6xl font-anton text-menu" href="#">FESTIVAL FAMILIAR</h2>
+                <p class="py-6 text-lg text-menu">EL IV FESTIVAL FAMILIAR DE LAS ARTES ESCÉNICAS contribuye a facilitar el acceso a la cultura a los ciudadanos 
+                  de entornos rurales con una programación multidisciplinar en recintos escénicos de una quincena de municipios 
+                  de menos de seis mil habitantes.
+                </p>
+                <button class="px-4 py-1 mt-6 text-lg text-white transition duration-500 rounded-3xl bg-menu hover:bg-white hover:text-menu"><a href="provincia.php">PROGRAMACIÓN ESCÉNICA</a></button>
+              </div>
+              <div class="relative flex h-[100%]">  
+                 <img class="absolute top-0 left-0 object-cover h-full max-w-none anchoimage" src="assets/images/web+inicio.png">
+              </div>
             </div>
-            <img class="lg:w-3/5 " src="assets/images/web+inicio.png">
           </section>
          
           <section class="lg:flex escuela_espectadores bg-background-2">
-            <div class="p-20 w-2/5">
+         
+            <div class="w-2/5 p-20 justify-items-end">
               <h2 class="py-6 text-6xl font-anton text-menu">ESCUELA RURAL DE ESPECTADORES</h2>
               <p class="py-6 text-lg text-menu">LA ESCUELA RURAL DE ESPECTADORES Y ESPECTADORAS, es una programación complementaria de actividades de 
                 formación de públicos en colegios e institutos de la provincia de Salamanca, con atención preferencial 
                 a los Centros Rurales Agrupados.
               </p>
-              <button class="mt-6 px-4 py-1 transition duration-500 rounded-3xl text-lg text-white bg-menu hover:bg-white hover:text-menu"><a href="escuela.php">PROGRAMACIÓN ALUMNADO</a></button>
+              <button class="px-4 py-1 mt-6 text-lg text-white transition duration-500 rounded-3xl bg-menu hover:bg-white hover:text-menu"><a href="escuela.php">PROGRAMACIÓN ALUMNADO</a></button>
             </div>
             <img class="lg:w-3/5" src="assets/images/web+inicio2.png">
           </section>

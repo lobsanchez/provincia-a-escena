@@ -19,18 +19,18 @@ $pagina=4; ?>
    <body class="font-roboto">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
-          <section class="py-16 mx-auto text-right hero ">
+          <section class="py-16 text-right hero ">
             <h2 class="xl:text-[190px] lg:text-[140px] text-[60px] px-16 leading-tight font-anton text-black animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>ESCUELA RURAL DE ESPECTADORES Y ESPECTADORAS</span></h2> 
           </section>
-          <section class="lg:flex flex-wrap bg-[#ebca5f] justify-center py-16 px-6">
+          <section class="lg:flex flex-wrap bg-[#ebca5f] justify-center py-16 px-16">
                 <h2 class="xl:text-[80px] lg:text-[60px] text-[30px] px-4 font-anton text-left "><span>ACCIONES COMPLEMENTARIAS PARA ESCOLARES</span></h2> 
-                <p class="pt-5 text-lg text-menu">
+                <p class="px-16 pt-5 text-lg text-menu">
                     Durante los meses de otoño se han programado 18 funciones para colectivos escolares, completando las dinámicas educativas iniciadas en la primera edición de Provincia
                     a Escena con diferentes colegios rurales agrupados de la provincia de Salamanca y abriendo la oportunidad de llevar las acciones escénicas a colegios de nuevos 
                     municipios. Se han programado 18 funciones escénicas de teatro, títeres y circo en las que participarán escolares de medio centenar de pueblos diferentes y otra 
                     quincena de funciones en centros escolares. 
                 </p>
-                <p class="pt-5 text-lg text-menu">
+                <p class="px-16 pt-5 pb-10 text-lg text-menu">
                     En los meses de octubre y noviembre se extenderán las actividades  con una programación específica para alumnado de educación infantil, primaria y secundaria; 
                     combinando la programación escénica en teatros municipales específica para colegios e institutos, con el desarrollo de espectáculos de pequeño formato sin exigencias 
                     técnicas que serán desarrollados en los propios centros escolares por compañías emergentes salmantinas (con la doble intención de apoyar la creación de jóvenes 

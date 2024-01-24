@@ -6,19 +6,23 @@
 
 /*Animación hover opciones del menú principal */
 .link{
-    @apply font-roboto font-light px-4 lg:text-base xl:text-lg py-1 transition duration-500 rounded-3xl bg-background-menu hover:bg-menu hover:text-white ;
+    @apply px-4 py-1 font-light transition duration-500 font-roboto lg:text-base xl:text-lg rounded-3xl bg-background-menu hover:bg-menu hover:text-white ;
 }
 
 .active{
-    @apply bg-menu text-white ;
+    @apply text-white bg-menu ;
 }
 /*Animación card pueblos de provincia.php */
 .link_village{
-  @apply transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300;
+  @apply transition duration-300 ease-in-out delay-150 hover:-translate-y-1 hover:scale-110;
 }
 .index{
     @apply text-xs;
 }
+.anchoimage{
+    @apply calc(100%+(100vw-152.733118971%)/2);
+}
+
 /*Marquesina espacios participantes en festival.php*/
 .marquee {
     width: 100%;

@@ -20,11 +20,11 @@ $pagina=1; ?>
         <?php include("assets/templates/header.php"); ?>   	
         <main>
           <section class="container py-16 mx-auto hero">
-                <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-4 leading-tight font-anton animate-fade-left animate-once animate-duration-700 animate-ease-linear"><span>EL FESTIVAL</span></h2> 
+                <h2 class="xl:text-[190px] lg:text-[140px] text-[60px] px-4 leading-tight font-anton animate-fade-left animate-once animate-duration-700 animate-ease-linear"><span>EL FESTIVAL</span></h2> 
           </section>
         
           <section class="lg:flex">
-                <div class="pt-16 px-16">
+                <div class="w-1/3 px-16 pt-16">
                     <a class="text-4xl font-anton text-menu" href="#">PROGRAMA DE PROMOCIÓN CULTURAL</a>
                     <p class="pt-5 text-lg text-menu">PROVINCIA A ESCENA, es un programa de promoción cultural y dinamización 
                         socioeducativa en la provincia de Salamanca que se estructura en dos partes: un Festival Familiar de Artes 
@@ -33,7 +33,7 @@ $pagina=1; ?>
                         de Espectadores/as.
                     </p>
                 </div>
-                <div class="pt-16 px-16">
+                <div class="w-1/3 px-16 pt-16">
                     <a class="text-4xl font-anton text-menu" href="#">DOS LÍNEAS DE INTERVENCIÓN: RECINTOS ESCÉNICOS Y CENTROS ESCOLARES</a>
                     <p class="pt-5 text-lg text-menu"> El IV Festival Familiar de Artes Escénicas de la provincia de Salamanca desarrollará su parte troncal del 1 de octubre 
                         al 25 de noviembre de 2023; comenzando en los meses de abril, mayo y junio también sus acciones complementarias para 
@@ -43,7 +43,7 @@ $pagina=1; ?>
                         centenar de centros escolares de la provincia, con atención preferencial a los Centros Rurales Agrupados. 
                     </p>
                 </div>
-                <div class="pt-16 px-16">
+                <div class="w-1/3 px-16 pt-16">
                     <a class="text-4xl font-anton text-menu" href="#">65% DE COMPAÑÍAS SALMANTINAS</a>
                     <p class="pt-5 text-lg text-menu">El FESTIVAL PROVINCIA A ESCENA está organizado por el Área de Cultura de la Diputación Provincial de Salamanca, y cuenta con 
                         la colaboración de la Consejería de Cultura y Turismo de la Junta de Castilla y León. Pretende acercar las artes escénicas 
@@ -54,7 +54,7 @@ $pagina=1; ?>
                 </div>
           </section>
           <img class="pt-16" src="assets/images/PEZ+LUNA_5.jpg">        
-          <section class="lg:flex pt-16">        
+          <section class="pt-16 lg:flex">        
             <img class="lg:w-1/3" src="assets/images/BOMBILLA+IZQDA+++GRAFISMO.png">  
             <div class="px-16 lg:w-1/3">
                 <a class="text-4xl font-anton text-menu" href="#">UNA INVITACIÓN A CONOCER LA PROVINCIA DE SALAMANCA, SUS PUEBLOS Y SUS TEATROS</a> 
@@ -64,7 +64,7 @@ $pagina=1; ?>
                 sin renunciar al componente lúdico y divertido del ejercicio escénico.
                 </p>
             </div>
-            <div class=" px-16 lg:w-1/3">
+            <div class="px-16 lg:w-1/3">
                 <a class="text-4xl font-anton text-menu" href="#">LAS ENTRADAS SON GRATUITAS HASTA COMPLETAR EL AFORO</a>
                 <p class="pt-5 text-lg text-menu">ENTRADAS: Las entradas para ver los espectáculos programados en Provincia a Escena los fines de semana, son gratuitas hasta completar el aforo. 
                 Cada espacio escénico puede gestionar la entrada del público acorde a sus dinámicas habituales de programación, ofreciendo la posibilidad de  
@@ -77,8 +77,8 @@ $pagina=1; ?>
                 </p>
             </div>
           </section>
-          <section class="bg-background-3">
-            <div class="py-16 px-16">
+          <section class="mt-8 bg-background-3">
+            <div class="px-16 py-16">
                 <article>
                     <P class="text-4xl font-anton text-menu" href="#">CRÉDITOS ORGANIZACIÓN</P>
                     <p class="pt-5 text-lg text-menu"><span class="font-bold">ORGANIZA:</span> DIPUTACIÓN PROVINCIAL DE SALAMANCA (Área de Cultura).</p>
@@ -92,8 +92,8 @@ $pagina=1; ?>
                     <p class="pt-5 text-lg text-menu"><span class="font-bold">Fotografía:</span> Fotografías propiedad de las compañías participantes, del archivo documental de la Feria de Teatro 
                         de Castilla y León/Ciudad Rodrigo y de bancos de imágenes públicas.</p>
                 </article>
-                <article class="overflow-x-hidden pt-16">
-                    <P class="text-4xl font-anton text-menu" href="#">ESPACIOS PARTICIPANTES</P>    
+                <article class="pt-16 overflow-x-hidden">
+                    <P class="pb-8 text-4xl font-anton text-menu" href="#">ESPACIOS PARTICIPANTES</P>    
                     <div class="py-5 animate-marquee whitespace-nowrap">
                         <span class="text-xl">&nbsp;Centro Cultural Santa Ana de Macotera &bull; </span>
                         <span class="text-xl">&nbsp;Auditorio de Ledesma &bull; </span>
