@@ -827,6 +827,14 @@ video {
   width: 100%;
 }
 
+.w-2\/5{
+  width: 40%;
+}
+
+.w-\[400px\]{
+  width: 400px;
+}
+
 .max-w-xl{
   max-width: 36rem;
 }
@@ -1404,6 +1412,10 @@ video {
   text-align: right;
 }
 
+.text-end{
+  text-align: end;
+}
+
 .align-middle{
   vertical-align: middle;
 }
@@ -1885,6 +1897,10 @@ video {
     width: 33.333333%;
   }
 
+  .lg\:w-3\/5{
+    width: 60%;
+  }
+
   .lg\:text-\[100px\]{
     font-size: 100px;
   }
@@ -1909,6 +1925,10 @@ video {
   .lg\:text-xl{
     font-size: 1.25rem;
     line-height: 1.75rem;
+  }
+
+  .lg\:text-\[140px\]{
+    font-size: 140px;
   }
 }
 
@@ -1941,6 +1961,10 @@ video {
   .xl\:text-xl{
     font-size: 1.25rem;
     line-height: 1.75rem;
+  }
+
+  .xl\:text-\[190px\]{
+    font-size: 190px;
   }
 }
 

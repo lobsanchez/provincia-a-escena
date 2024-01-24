@@ -6,6 +6,8 @@ export default {
   ],
   theme: {
     extend: {
+      container: false, 
+      
       colors:{
         "menu": "#121212",
         "background-1": "#fb665f",

@@ -29,46 +29,46 @@ $pagina=2; ?>
         <?php include("assets/templates/header.php"); ?>   	
         <main>
           <section class="py-16 mx-auto text-right hero bg-black">
-            <h2 class="xl:text-[160px] lg:text-[120px] text-[60px] px-16 leading-tight font-anton text-white animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>PROGRAMACIÓN FESTIVAL FAMILIAR DE ARTES ESCÉNICAS</span></h2> 
+            <h2 class="xl:text-[190px] lg:text-[140px] text-[60px] px-16 leading-tight font-anton text-white animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>PROGRAMACIÓN FESTIVAL FAMILIAR DE ARTES ESCÉNICAS</span></h2> 
           </section>
           <section class="lg:flex flex-wrap bg-black justify-center pb-16">
                 
-                <div class="pt-12 px-12 link_village">
+                <div class="pt-12 px-6 link_village">
                     <!-- <div class="w-[424px] h-[400px] bg-[#343363] text-center text-6xl text-white align-middle hover:text-[#343363] hover:bg-[url('../../images/sanctispiritus_foto_bn.jpg')]">SANCTI SPIRITUS</div> -->
-                    <a href="sancti-spiritus.php"><img class="hover:bg-"src="assets/images/sancti_spiritus_mini.jpg"></a> 
+                    <a href="sancti-spiritus.php"><img src="assets/images/sancti_spiritus_mini.jpg" class="w-[400px]"></a> 
                 </div>
-                <div class="pt-12 px-12 link_village">
-                    <a href="lumbrales.php"><img src="assets/images/lumbrales_mini.jpg"></a>
+                <div class="pt-12 px-6 link_village">
+                    <a href="lumbrales.php"><img src="assets/images/lumbrales_mini.jpg" class="w-[400px]"></a>
                 </div>
-                <div class="pt-12 px-12 link_village">
-                    <a href="villoria.php"><img src="assets/images/villoria_mini.jpg"></a> 
+                <div class="pt-12 px-6 link_village">
+                    <a href="villoria.php"><img src="assets/images/villoria_mini.jpg" class="w-[400px]"></a> 
                 </div>
-                <div class="pt-12 px-12 link_village">
-                    <a href="macotera.php"><img src="assets/images/macotera_mini.jpg"></a>    
+                <div class="pt-12 px-6 link_village">
+                    <a href="macotera.php"><img src="assets/images/macotera_mini.jpg" class="w-[400px]"></a>    
                 </div>
-                <div class="pt-12 px-12 link_village">
-                <a href="aldeadavila.php"><img src="assets/images/aldeadavila_de_la_ribera_mini.jpg"></a>
+                <div class="pt-12 px-6 link_village">
+                <a href="aldeadavila.php"><img src="assets/images/aldeadavila_de_la_ribera_mini.jpg" class="w-[400px]"></a>
                 </div>
-                <div class="pt-12 px-12 link_village">
-                    <a href="albadetormes.php"><img src="assets/images/alba_de_tormes_mini.jpg"></a>
+                <div class="pt-12 px-6 link_village">
+                    <a href="albadetormes.php"><img src="assets/images/alba_de_tormes_mini.jpg" class="w-[400px]"></a>
                 </div>
-                <div class="pt-12 px-12 link_village">
-                    <a href="monleras.php"><img src="assets/images/monleras_mini.jpg"></a>
+                <div class="pt-12 px-6 link_village">
+                    <a href="monleras.php"><img src="assets/images/monleras_mini.jpg" class="w-[400px]"></a>
                 </div>
-                <div class="pt-12 px-12 link_village">
-                    <a href="doninos.php"><img src="assets/images/doñinos_de_salamanca_mini.jpg"></a>
+                <div class="pt-12 px-6 link_village">
+                    <a href="doninos.php"><img src="assets/images/doñinos_de_salamanca_mini.jpg" class="w-[400px]"></a>
                 </div>
-                <div class="pt-12 px-12 link_village">
-                    <a href="sequeros.php"><img src="assets/images/sequeros_mini.jpg"></a>
+                <div class="pt-12 px-6 link_village">
+                    <a href="sequeros.php"><img src="assets/images/sequeros_mini.jpg" class="w-[400px]"></a>
                 </div>
-                <div class="pt-12 px-12 link_village">
-                    <a href="guijuelo.php"><img src="assets/images/guijuelo_mini.jpg"></a>
+                <div class="pt-12 px-6 link_village">
+                    <a href="guijuelo.php"><img src="assets/images/guijuelo_mini.jpg" class="w-[400px]"></a>
                 </div>
-                <div class="pt-12 px-12 link_village">
-                    <a href="vitigudino.php"><img src="assets/images/vitigudino_mini.jpg"></a> 
+                <div class="pt-12 px-6 link_village">
+                    <a href="vitigudino.php"><img src="assets/images/vitigudino_mini.jpg" class="w-[400px]"></a> 
                 </div>
-                <div class="pt-12 px-12 link_village">
-                    <a href="ledesma.php"><img src="assets/images/ledesma_mini.jpg"></a>
+                <div class="pt-12 px-6 link_village">
+                    <a href="ledesma.php"><img src="assets/images/ledesma_mini.jpg" class="w-[400px]"></a>
                 </div>         
           </section>
          
