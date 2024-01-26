@@ -75,16 +75,16 @@ $pagina=2; ?>
           <section <?php $pagina=3; ?> class="">        
             <div class="pt-16 px-16">
                 <h2 id="calendario" class="inline-block xl:text-[120px] lg:text-[100px] text-[60px] px-16 leading-tight font-anton animate-fade animate-once animate-duration-1000 animate-ease-linear"><span>CALENDARIO</span></h2>
-                <div class="inline-block  float-end"><a href="#top"><img class="h-28 animate-jump animate-once animate-duration-700 animate-delay-700 animate-ease-linear" src="assets/images/flecha-arriba.png"></a></div> 
+                <!-- <div class="inline-block  float-end"><a href="#top"><img class="h-28 animate-jump animate-once animate-duration-700 animate-delay-700 animate-ease-linear" src="assets/images/flecha-arriba.png"></a></div> -->
             </div>
             <!-- component -->
             <!-- This is an example component -->
             <div>
                
 
-                <div class="antialiased sans-serif bg-white h-screen">
+                <div class="antialiased sans-serif bg-white">
                 <div x-data="app()" x-init="[initDate(), getNoOfDays()]" x-cloak>
-                    <div class="container mx-auto px-4 py-2 md:py-20">
+                    <div class="container mx-auto px-4 py-2 ">
                         
                         <!-- <div class="font-bold text-gray-800 text-xl mb-4">
                             Schedule Tasks

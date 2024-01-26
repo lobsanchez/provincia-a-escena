@@ -57,16 +57,22 @@ $pagina=5; ?>
                             <textarea id="message" rows="4" class="bg-[#f0f0f0] text-lg px-4 rounded-[4px] w-full focus:outline-0 hover:border-black border focus:border-black focus:border"></textarea>
                         </div>
                         <div class="px-4 pb-10">
-                            <button type="submit" class="lg:text-lg xl:text-xl transition duration-500 rounded-[36px] text-white bg-black  hover:border-black hover:bg-background-menu hover:text-black font-normal text-sm w-full sm:w-auto px-6 py-4 text-center">ENVIAR</button>
+                            <button type="submit" class="lg:text-lg xl:text-xl transition duration-500 rounded-[36px] text-white bg-black  hover:border-black hover:bg-background-menu hover:text-black font-normal text-sm w-full sm:w-auto px-6 py-4 text-center">ENVIAR MENSAJE</button>
                         </div>
                     </form>     
                 </div>
-                <div class="container w-1/3 text-center mt-80">
-                    <img class="w-[80%] mx-auto pb-20"src="./assets/images/LG_PROVINCIA+ESCENA+blanco-01.png">
-                    <h6 class="px-4 font-extralight pt-20 text-xl">EMAIL</h6>
-                    <p class="px-4 py-2 font-light text-2xl">provinciaaescena@gmail.com</p>
-                    <h6 class="px-4 font-extralight pt-20 text-xl">WHATSAPP</h6>
-                    <p class="px-4 py-2 font-light text-2xl">636922702</p>
+                <div class="container w-1/3 text-center mt-40">
+                    <img class="w-[250px] mx-auto pb-20" src="./assets/images/mancha_cultura.jpeg">
+                    <h6 class="px-4 font-extralight pt-10 text-2xl">DIRECCIÓN</h6>
+                    <p class="px-4 py-2 font-light text-xl">Felipe Espino 1, Salamanca</p>
+                    <h6 class="px-4 font-extralight pt-10 text-2xl">WEB Y EMAILS</h6>
+                    <p class="px-4 py-2 font-light text-xl">lasalina.es/cultura</p>
+                    <p class="px-4 py-2 font-light text-xl">provinciaaescena@gmail.com</p>
+                    <p class="px-4 py-2 font-light text-xl">cultura@lasalina.es</p>
+                    <h6 class="px-4 font-extralight pt-10 text-2xl">TELÉFONO</h6>
+                    <p class="px-4 py-2 font-light text-xl">923293100</p>
+                    <h6 class="px-4 font-extralight pt-10 text-2xl">WHATSAPP</h6>
+                    <p class="px-4 py-2 font-light text-xl">636922702</p>
                 </div>
           </section>
         </main>
