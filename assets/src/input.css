@@ -19,9 +19,7 @@
 .index{
     @apply text-xs;
 }
-.anchoimage{
-    @apply calc(100%+(100vw-152.733118971%)/2);
-}
+
 
 /*Marquesina espacios participantes en festival.php*/
 .marquee {
