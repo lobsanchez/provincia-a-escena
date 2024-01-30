@@ -1,8 +1,8 @@
-<header class="container mx-auto">
+<header class="container">
     <div class="bg-white mx auto">
-        <nav class="flex items-center justify-between px-6 mx-auto my-5 animate-fade-down animate-once animate-duration-500 animate-delay-1000 animate-ease-linear">
+        <nav class="flex items-center justify-between mx-auto my-5 animate-fade-down animate-once animate-duration-500 animate-delay-1000 animate-ease-linear">
             <a href="index.php" class="enlace">
-                <img class="h-14 lg:h-16 xl:h-[80px] " src="assets/images/logo-provincia-low.png" width="Logotipo">
+                <img class="h-[70px] xl:h-[90px] " src="assets/images/logo-provincia-low.png" width="Logotipo">
             </a>
             <ul class="items-center justify-center hidden gap-1 px-4 py-1 rounded-full links lg:flex menu text-menu">
                 <li class="link <?php if($pagina == 1): echo 'active'; endif; ?>"><a href="festival.php"><span>EL FESTIVAL</span></a></li>

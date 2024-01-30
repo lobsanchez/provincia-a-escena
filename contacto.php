@@ -20,13 +20,13 @@ $pagina=5; ?>
         <?php include("assets/templates/header.php"); ?>   	
         <main>
           <section class="container py-16 mx-auto hero">
-                <h2 class="xl:text-[190px] lg:text-[140px] text-[60px] px-4 leading-tight font-anton animate-fade-up animate-duration-700 animate-ease-linear animate-normal"><span>CONTACTO</span></h2> 
+                <h2 class="xl:text-[180px] lg:text-[140px] text-[60px] px-4 leading-none font-anton animate-fade-up animate-duration-700 animate-ease-linear animate-normal"><span>CONTACTO</span></h2> 
           </section>
           
           <section class="container mx-auto lg:flex gap-5">            
                 <div class="w-2/3 px-4">
                     <div class="container ">
-                        <h6 class="px-4 font-extralight py-12 text-xl">ENVÍANOS UN MENSAJE</h6>
+                        <h6 class="px-4 font-light py-12 text-xl">&#11044;&nbsp;&nbsp; ENVÍANOS UN MENSAJE</h6>
                         <p class="px-4 py-12 font-light text-3xl">RELLENA EL FORMULARIO PARA SOLICITARNOS CUALQUIER INFORMACIÓN Y NOS PONDREMOS EN CONTACTO CONTIGO LO ANTES POSIBLE.</p>
                     </div>    
                     <form>
@@ -62,11 +62,17 @@ $pagina=5; ?>
                     </form>     
                 </div>
                 <div class="container w-1/3 text-center mt-80">
-                    <img class="w-[80%] mx-auto pb-20"src="./assets/images/LG_PROVINCIA+ESCENA+blanco-01.png">
-                    <h6 class="px-4 font-extralight pt-20 text-xl">EMAIL</h6>
-                    <p class="px-4 py-2 font-light text-2xl">provinciaaescena@gmail.com</p>
-                    <h6 class="px-4 font-extralight pt-20 text-xl">WHATSAPP</h6>
-                    <p class="px-4 py-2 font-light text-2xl">636922702</p>
+                <img class="w-[250px] mx-auto pb-20" src="./assets/images/mancha_cultura.jpeg">
+                    <h6 class="px-4 font-extralight pt-10 text-2xl">DIRECCIÓN</h6>
+                    <p class="px-4 py-2 font-light text-xl">Felipe Espino 1, Salamanca</p>
+                    <h6 class="px-4 font-extralight pt-10 text-2xl">WEB Y EMAILS</h6>
+                    <p class="px-4 py-2 font-light text-xl">lasalina.es/cultura</p>
+                    <p class="px-4 py-2 font-light text-xl">provinciaaescena@gmail.com</p>
+                    <p class="px-4 py-2 font-light text-xl">cultura@lasalina.es</p>
+                    <h6 class="px-4 font-extralight pt-10 text-2xl">TELÉFONO</h6>
+                    <p class="px-4 py-2 font-light text-xl">923293100</p>
+                    <h6 class="px-4 font-extralight pt-10 text-2xl">WHATSAPP</h6>
+                    <p class="px-4 py-2 font-light text-xl">636922702</p>
                 </div>
           </section>
         </main>

@@ -20,7 +20,7 @@ $pagina=4; ?>
         <?php include("assets/templates/header.php"); ?>   	
         <main>
           <section class="container py-24 mx-auto hero">
-            <h2 class="xl:text-[190px] lg:text-[140px] text-[80px] px-4 leading-tight font-anton animate-fade-left animate-once animate-duration-700 animate-ease-linear"><span>ESCUELA RURAL DE ESPECTADORES Y ESPECTADORAS</span></h2> 
+            <h2 class="xl:text-[180px] lg:text-[140px] text-[80px] px-4 leading-none font-anton animate-fade-left animate-once animate-duration-700 animate-ease-linear"><span>ESCUELA RURAL DE ESPECTADORES Y ESPECTADORAS</span></h2> 
           </section>
           <section class="container festival_familiar bg-background-3">
             <div class=" xl:px-12 p-7 lg:pt-16 pt-7">

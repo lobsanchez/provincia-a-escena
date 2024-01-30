@@ -29,7 +29,7 @@ $pagina=2; ?>
         <?php include("assets/templates/header.php"); ?>   	
         <main>
           <section class="py-24 mx-auto text-right hero bg-black">
-            <h2 class="xl:text-[190px] lg:text-[140px] text-[60px] px-16 leading-tight font-anton text-white animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>PROGRAMACIÓN FESTIVAL FAMILIAR DE ARTES ESCÉNICAS</span></h2> 
+            <h2 class="xl:text-[180px] lg:text-[140px] text-[60px] px-16 leading-none font-anton text-white animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>PROGRAMACIÓN FESTIVAL FAMILIAR DE ARTES ESCÉNICAS</span></h2> 
           </section>
           <section class="lg:flex flex-wrap bg-black justify-center pb-16">
                 

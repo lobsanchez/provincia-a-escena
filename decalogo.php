@@ -1,5 +1,5 @@
 <?php require_once("assets/config/config.php"); 
-$pagina=2; ?>
+$pagina=3; ?>
 <!DOCTYPE html>
 <!--[if lt IE 7]>   <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="es"> <![endif]-->
 <!--[if IE 7]> 		<html class="no-js lt-ie9 lt-ie8" lang="es"> <![endif]-->
@@ -25,12 +25,13 @@ $pagina=2; ?>
                     }
                 </style>   
    </head>
-   <body class="font-roboto" id="top">
+   <body class="font-roboto container" id="top">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
         <section class="py-16 text-right hero ">
-            <h2 class="xl:text-[190px] lg:text-[140px] text-[60px] px-16 leading-tight font-anton text-black animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>DECÁLOGO DEL BUEN ESPECTADOR</span></h2> 
+            <h2 class="xl:text-[180px] lg:text-[140px] text-[60px] px-16 leading-none font-anton text-black animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>DECÁLOGO DEL BUEN ESPECTADOR</span></h2> 
           </section>
+          <img class="" src="assets/images/asdf.jpg">
           <section class="flex-wrap justify-center pb-16 bg-white lg:flex">
                 
                 <div class="px-6 pt-12 link_village">
@@ -60,9 +61,6 @@ $pagina=2; ?>
                 </div>
                 <div class="px-6 pt-12 link_village">
                     <a href="#"><img src="assets/images/decalogo9.jpg" class="w-[400px]"></a>
-                </div>
-                <div class="px-6 pt-12 link_village">
-                    <a href="#"><img src="assets/images/" class="w-[400px]"></a>
                 </div>
                 <div class="px-6 pt-12 link_village">
                     <a href="#"><img src="assets/images/decalogo10.jpg" class="w-[400px]"></a>

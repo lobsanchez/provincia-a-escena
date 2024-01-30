@@ -19,8 +19,8 @@ $pagina=1; ?>
    <body class="container">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
-          <section class="container py-24 mx-auto hero">
-                <h2 class="xl:text-[190px] lg:text-[140px] text-[80px] px-4 leading-tight font-anton animate-fade-left animate-once animate-duration-700 animate-ease-linear"><span>EL FESTIVAL</span></h2> 
+          <section class="lg:container py-24 mx-auto hero">
+                <h2 class="xl:text-[180px] lg:text-[140px] text-[80px] px-4 leading-none font-anton animate-fade-left animate-once animate-duration-700 animate-ease-linear"><span>EL FESTIVAL</span></h2> 
           </section>
         
           <section class="lg:flex bg-background-2 mt-16 pb-10">

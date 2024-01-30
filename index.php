@@ -21,7 +21,7 @@ $pagina = 0;?>
         <?php include("assets/templates/header.php"); ?>   	
         <main>
           <section class="container py-16 mx-auto hero">
-            <h2 class="xl:text-[190px] lg:text-[140px] text-[60px] px-4 leading-tight font-anton animate-fadeup"><span>IV FESTIVAL FAMILIAR PROVINCIA A ESCENA</span></h2> 
+            <h2 class="xl:text-[180px] lg:text-[140px] text-[60px] px-4 leading-none font-anton animate-fadeup"><span>IV FESTIVAL FAMILIAR PROVINCIA A ESCENA</span></h2> 
             <div class="flex justify-start py-16">
               <p class="w-3/6 px-4 text-lg xl:text-3xl lg:text-xl">FESTIVAL FAMILIAR<br> DE LAS ARTES ESCÉNICAS</p>
               <p class="w-3/6 px-4 text-lg xl:text-3xl lg:text-xl">ESCUELA RURAL<br> DE ESPECTADORES/AS</p>
