@@ -16,25 +16,28 @@ $pagina=1; ?>
       <title>Provincia a escena </title>    
       <link rel="stylesheet" href="assets/css/dist/output.css" type="text/css"/>   
    </head>
-   <body class="">
+   <body class="container">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
-          <section class="container py-16 mx-auto hero">
-                <h2 class="xl:text-[190px] lg:text-[140px] text-[60px] px-4 leading-tight font-anton animate-fade-left animate-once animate-duration-700 animate-ease-linear"><span>EL FESTIVAL</span></h2> 
+          <section class="container py-24 mx-auto hero">
+                <h2 class="xl:text-[190px] lg:text-[140px] text-[80px] px-4 leading-tight font-anton animate-fade-left animate-once animate-duration-700 animate-ease-linear"><span>EL FESTIVAL</span></h2> 
           </section>
         
-          <section class="lg:flex">
-                <div class="w-1/3 px-16 pt-16">
-                    <a class="text-4xl font-anton text-menu" href="#">PROGRAMA DE PROMOCIÓN CULTURAL</a>
+          <section class="lg:flex bg-background-2 mt-16 pb-10">
+                <div class="lg:w-1/3 xl:px-12 p-7 lg:pt-16 pt-7">
+                    <h2 class="xl:text-4xl text-3xl font-anton text-menu">PROGRAMA DE PROMOCIÓN CULTURAL</h2>
                     <p class="pt-5 text-lg text-menu">PROVINCIA A ESCENA, es un programa de promoción cultural y dinamización 
                         socioeducativa en la provincia de Salamanca que se estructura en dos partes: un Festival Familiar de Artes 
                         Escénicas que se desarrolla en fines de semana durante los meses de otoño, y ampara una programación 
                         complementaria de actividades de formación de públicos en colegios e institutos en el marco de la Escuela Rural 
                         de Espectadores/as.
                     </p>
+                    <p class="pt-5 text-lg text-menu">Se trata de una oferta escénica variada y equilibrada, con espectáculos de teatro, títeres, circo, magia, clown, 
+                        sombras y teatro gestual.
+                    </p>
                 </div>
-                <div class="w-1/3 px-16 pt-16">
-                    <a class="text-4xl font-anton text-menu" href="#">DOS LÍNEAS DE INTERVENCIÓN: RECINTOS ESCÉNICOS Y CENTROS ESCOLARES</a>
+                <div class="lg:w-1/3 xl:px-12 p-7 lg:pt-16 pt-7">
+                    <h2 class="xl:text-4xl text-3xl font-anton text-menu">DOS LÍNEAS DE INTERVENCIÓN: RECINTOS ESCÉNICOS Y CENTROS ESCOLARES</h2>
                     <p class="pt-5 text-lg text-menu"> El IV Festival Familiar de Artes Escénicas de la provincia de Salamanca desarrollará su parte troncal del 1 de octubre 
                         al 25 de noviembre de 2023; comenzando en los meses de abril, mayo y junio también sus acciones complementarias para 
                         escolares. Este programa, que contribuye a facilitar el acceso a la cultura a los ciudadanos de entornos rurales, se 
@@ -43,8 +46,8 @@ $pagina=1; ?>
                         centenar de centros escolares de la provincia, con atención preferencial a los Centros Rurales Agrupados. 
                     </p>
                 </div>
-                <div class="w-1/3 px-16 pt-16">
-                    <a class="text-4xl font-anton text-menu" href="#">65% DE COMPAÑÍAS SALMANTINAS</a>
+                <div class="lg:w-1/3 xl:px-12 p-7 lg:pt-16 pt-7">
+                    <h2 class="xl:text-4xl text-3xl font-anton text-menu" >EL 65% DE LAS COMPAÑÍAS SON SALMANTINAS</h2>
                     <p class="pt-5 text-lg text-menu">El FESTIVAL PROVINCIA A ESCENA está organizado por el Área de Cultura de la Diputación Provincial de Salamanca, y cuenta con 
                         la colaboración de la Consejería de Cultura y Turismo de la Junta de Castilla y León. Pretende acercar las artes escénicas 
                         a todos los rincones de la provincia, fomentar la creación de nuevos públicos y estimular la participación en familia en 
@@ -53,19 +56,21 @@ $pagina=1; ?>
                     </p>
                 </div>
           </section>
-          <img class="pt-16" src="assets/images/PEZ+LUNA_5.jpg">        
-          <section class="pt-16 lg:flex">        
-            <img class="lg:w-1/3" src="assets/images/BOMBILLA+IZQDA+++GRAFISMO.png">  
-            <div class="px-16 lg:w-1/3">
-                <a class="text-4xl font-anton text-menu" href="#">UNA INVITACIÓN A CONOCER LA PROVINCIA DE SALAMANCA, SUS PUEBLOS Y SUS TEATROS</a> 
+          <img class="" src="assets/images/PEZ+LUNA_5.jpg">        
+          <section class="mt-6 lg:flex">        
+            <img class="hidden xl:flex xl:w-1/3 w-[50%] h-auto object-contain" src="assets/images/BOMBILLA+IZQDA+++GRAFISMO.png">  
+            <div class="lg:w-1/2 xl:w-1/3 xl:px-16 p-7 lg:pt-16">
+                <h2 class="xl:text-4xl text-3xl font-anton text-menu" >UNA INVITACIÓN A CONOCER LA PROVINCIA DE SALAMANCA, SUS PUEBLOS Y SUS TEATROS</h2> 
                 <p class="pt-5 text-lg text-menu">PROVINCIA A ESCENA invita a descubrir la provincia de Salamanca, sus pueblos y sus teatros. La programación 
                 escénica está integrada por algunas de las principales compañías nacionales especializadas en público infantil y 
                 familiar, cuyos espectáculos muestran un gran compromiso social y reflejan las preocupaciones de nuestro tiempo, 
                 sin renunciar al componente lúdico y divertido del ejercicio escénico.
                 </p>
+                <p class="pt-5 text-lg text-menu">La ESCUELA RURAL DE ESPECTADORES/AS desarrolla acciones de promoción escénica para los escolares de la provincia.
+                </p>
             </div>
-            <div class="px-16 lg:w-1/3">
-                <a class="text-4xl font-anton text-menu" href="#">LAS ENTRADAS SON GRATUITAS HASTA COMPLETAR EL AFORO</a>
+            <div class="lg:w-1/2 xl:w-1/3 xl:px-16 p-7 lg:pt-16">
+                <h2 class="xl:text-4xl text-3xl font-anton text-menu">LAS ENTRADAS SON GRATUITAS HASTA COMPLETAR EL AFORO</h2>
                 <p class="pt-5 text-lg text-menu">ENTRADAS: Las entradas para ver los espectáculos programados en Provincia a Escena los fines de semana, son gratuitas hasta completar el aforo. 
                 Cada espacio escénico puede gestionar la entrada del público acorde a sus dinámicas habituales de programación, ofreciendo la posibilidad de  
                 recoger invitaciones, otros sistemas alternativos y entrada libre hasta completar el aforo. Rogamos se informen con antelación en el propio teatro, 

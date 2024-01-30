@@ -62,6 +62,9 @@ $pagina=2; ?>
                     <a href="#"><img src="assets/images/decalogo9.jpg" class="w-[400px]"></a>
                 </div>
                 <div class="px-6 pt-12 link_village">
+                    <a href="#"><img src="assets/images/" class="w-[400px]"></a>
+                </div>
+                <div class="px-6 pt-12 link_village">
                     <a href="#"><img src="assets/images/decalogo10.jpg" class="w-[400px]"></a>
                 </div>
                         

@@ -5,9 +5,17 @@ export default {
     "./assets/templates/*.{html,php,js}"
   ],
   theme: {
-    extend: {
-      container: false, 
-      
+    container: {
+      center: true,
+      screens:{
+        'sm': '640px',
+        'md': '768px',
+        'lg': '1024px',
+        'xl': '1280px',
+        '2xl': '1600px',
+      }
+    }, 
+    extend: {  
       colors:{
         "menu": "#121212",
         "background-1": "#fb665f",

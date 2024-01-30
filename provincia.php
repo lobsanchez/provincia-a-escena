@@ -25,10 +25,10 @@ $pagina=2; ?>
                     }
                 </style>   
    </head>
-   <body class="font-roboto" id="top">
+   <body class="font-roboto container" id="top">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
-          <section class="py-16 mx-auto text-right hero bg-black">
+          <section class="py-24 mx-auto text-right hero bg-black">
             <h2 class="xl:text-[190px] lg:text-[140px] text-[60px] px-16 leading-tight font-anton text-white animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>PROGRAMACIÓN FESTIVAL FAMILIAR DE ARTES ESCÉNICAS</span></h2> 
           </section>
           <section class="lg:flex flex-wrap bg-black justify-center pb-16">
@@ -72,16 +72,14 @@ $pagina=2; ?>
                 </div>         
           </section>
          
-          <section <?php $pagina=3; ?> class="">        
+          <section <?php $pagina=3; ?> class="container">        
             <div class="pt-16 px-16">
-                <h2 id="calendario" class="inline-block xl:text-[120px] lg:text-[100px] text-[60px] px-16 leading-tight font-anton animate-fade animate-once animate-duration-1000 animate-ease-linear"><span>CALENDARIO</span></h2>
-                <div class="inline-block  float-end"><a href="#top"><img class="h-28 animate-jump animate-once animate-duration-700 animate-delay-700 animate-ease-linear" src="assets/images/flecha-arriba.png"></a></div> 
+                <h2 id="calendario" class="inline-block xl:text-[120px] lg:text-[100px] text-[60px] leading-tight font-anton animate-fade animate-once animate-duration-1000 animate-ease-linear"><span>CALENDARIO</span></h2>
+               <!--  <div class="inline-block  float-end"><a href="#top"><img class="h-28 animate-jump animate-once animate-duration-700 animate-delay-700 animate-ease-linear" src="assets/images/flecha-arriba.png"></a></div> -->
             </div>
             <!-- component -->
             <!-- This is an example component -->
-            <div>
-               
-
+            <div class="container">
                 <div class="antialiased sans-serif bg-white h-screen">
                 <div x-data="app()" x-init="[initDate(), getNoOfDays()]" x-cloak>
                     <div class="container mx-auto px-4 py-2 md:py-20">
@@ -90,7 +88,7 @@ $pagina=2; ?>
                             Schedule Tasks
                         </div> -->
 
-                        <div class="bg-gray-200  shadow overflow-hidden">
+                        <div class="bg-gray-200 shadow overflow-hidden">
 
                             <div class="flex items-center justify-between py-2 px-6">
                                 <div>

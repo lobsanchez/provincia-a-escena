@@ -28,26 +28,22 @@ $pagina = 0;?>
             </div>
           </section>
         
-          <section class=" festival_familiar bg-background-1">
-            <div class="container mx-auto lg:flex">
-              <div class="w-2/5 p-20">
-                <h2 class="text-6xl font-anton text-menu" href="#">FESTIVAL FAMILIAR</h2>
+          <section class="container lg:flex festival_familiar bg-background-1">
+            <div class="lg:w-2/5 lg:p-20 p-7 lg:justify-items-end">
+                <h2 class="xl:text-6xl lg:text-4xl text-3xl font-anton text-menu" href="#">FESTIVAL FAMILIAR</h2>
                 <p class="py-6 text-lg text-menu">EL IV FESTIVAL FAMILIAR DE LAS ARTES ESCÉNICAS contribuye a facilitar el acceso a la cultura a los ciudadanos 
                   de entornos rurales con una programación multidisciplinar en recintos escénicos de una quincena de municipios 
                   de menos de seis mil habitantes.
                 </p>
                 <button class="px-4 py-1 mt-6 text-lg text-white transition duration-500 rounded-3xl bg-menu hover:bg-white hover:text-menu"><a href="provincia.php">PROGRAMACIÓN ESCÉNICA</a></button>
               </div>
-              <div class="relative flex h-[100%]">  
-                 <img class="absolute top-0 left-0 object-cover h-full max-w-none anchoimage" src="assets/images/web+inicio.png">
-              </div>
+              <img class="lg:w-3/5" src="assets/images/web+inicio.png">
             </div>
           </section>
          
-          <section class="lg:flex escuela_espectadores bg-background-2">
-         
-            <div class="w-2/5 p-20 justify-items-end">
-              <h2 class="py-6 text-6xl font-anton text-menu">ESCUELA RURAL DE ESPECTADORES</h2>
+          <section class="container lg:flex escuela_espectadores bg-white">
+            <div class="lg:w-2/5 lg:p-20 p-7 lg:justify-items-end">
+              <h2 class="xl:text-6xl lg:text-4xl text-3xl font-anton text-menu">ESCUELA RURAL DE ESPECTADORES</h2>
               <p class="py-6 text-lg text-menu">LA ESCUELA RURAL DE ESPECTADORES Y ESPECTADORAS, es una programación complementaria de actividades de 
                 formación de públicos en colegios e institutos de la provincia de Salamanca, con atención preferencial 
                 a los Centros Rurales Agrupados.
@@ -56,6 +52,7 @@ $pagina = 0;?>
             </div>
             <img class="lg:w-3/5" src="assets/images/web+inicio2.png">
           </section>
+
         </main>
         <?php include("assets/templates/footer.php"); ?> 
         <script src="assets/js/custom.js"></script>
