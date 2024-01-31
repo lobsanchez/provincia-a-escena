@@ -35,40 +35,40 @@ $pagina=2; ?>
                 
                 <div class="pt-12 px-6 link_village">
                     <!-- <div class="w-[424px] h-[400px] bg-[#343363] text-center text-6xl text-white align-middle hover:text-[#343363] hover:bg-[url('../../images/sanctispiritus_foto_bn.jpg')]">SANCTI SPIRITUS</div> -->
-                    <a href="sancti-spiritus.php"><img src="assets/images/sancti_spiritus_mini.jpg" class="w-[400px]"></a> 
+                    <a href="sancti-spiritus.php"><img src="assets/images/sancti_spiritus_mini.jpg" class="lg:w-[400px] w-[320px] mx-auto"></a> 
                 </div>
                 <div class="pt-12 px-6 link_village">
-                    <a href="lumbrales.php"><img src="assets/images/lumbrales_mini.jpg" class="w-[400px]"></a>
+                    <a href="lumbrales.php"><img src="assets/images/lumbrales_mini.jpg" class="lg:w-[400px] w-[320px] mx-auto"></a>
                 </div>
                 <div class="pt-12 px-6 link_village">
-                    <a href="villoria.php"><img src="assets/images/villoria_mini.jpg" class="w-[400px]"></a> 
+                    <a href="villoria.php"><img src="assets/images/villoria_mini.jpg" class="lg:w-[400px] w-[320px] mx-auto"></a> 
                 </div>
                 <div class="pt-12 px-6 link_village">
-                    <a href="macotera.php"><img src="assets/images/macotera_mini.jpg" class="w-[400px]"></a>    
+                    <a href="macotera.php"><img src="assets/images/macotera_mini.jpg" class="lg:w-[400px] w-[320px] mx-auto"></a>    
                 </div>
                 <div class="pt-12 px-6 link_village">
-                <a href="aldeadavila.php"><img src="assets/images/aldeadavila_de_la_ribera_mini.jpg" class="w-[400px]"></a>
+                <a href="aldeadavila.php"><img src="assets/images/aldeadavila_de_la_ribera_mini.jpg" class="lg:w-[400px] w-[320px] mx-auto"></a>
                 </div>
                 <div class="pt-12 px-6 link_village">
-                    <a href="albadetormes.php"><img src="assets/images/alba_de_tormes_mini.jpg" class="w-[400px]"></a>
+                    <a href="albadetormes.php"><img src="assets/images/alba_de_tormes_mini.jpg" class="lg:w-[400px] w-[320px] mx-auto"></a>
                 </div>
                 <div class="pt-12 px-6 link_village">
-                    <a href="monleras.php"><img src="assets/images/monleras_mini.jpg" class="w-[400px]"></a>
+                    <a href="monleras.php"><img src="assets/images/monleras_mini.jpg" class="lg:w-[400px] w-[320px] mx-auto"></a>
                 </div>
                 <div class="pt-12 px-6 link_village">
-                    <a href="doninos.php"><img src="assets/images/doñinos_de_salamanca_mini.jpg" class="w-[400px]"></a>
+                    <a href="doninos.php"><img src="assets/images/doñinos_de_salamanca_mini.jpg" class="lg:w-[400px] w-[320px] mx-auto"></a>
                 </div>
                 <div class="pt-12 px-6 link_village">
-                    <a href="sequeros.php"><img src="assets/images/sequeros_mini.jpg" class="w-[400px]"></a>
+                    <a href="sequeros.php"><img src="assets/images/sequeros_mini.jpg" class="lg:w-[400px] w-[320px] mx-auto"></a>
                 </div>
                 <div class="pt-12 px-6 link_village">
-                    <a href="guijuelo.php"><img src="assets/images/guijuelo_mini.jpg" class="w-[400px]"></a>
+                    <a href="guijuelo.php"><img src="assets/images/guijuelo_mini.jpg" class="lg:w-[400px] w-[320px] mx-auto"></a>
                 </div>
                 <div class="pt-12 px-6 link_village">
-                    <a href="vitigudino.php"><img src="assets/images/vitigudino_mini.jpg" class="w-[400px]"></a> 
+                    <a href="vitigudino.php"><img src="assets/images/vitigudino_mini.jpg" class="lg:w-[400px] w-[320px] mx-auto"></a> 
                 </div>
                 <div class="pt-12 px-6 link_village">
-                    <a href="ledesma.php"><img src="assets/images/ledesma_mini.jpg" class="w-[400px]"></a>
+                    <a href="ledesma.php"><img src="assets/images/ledesma_mini.jpg" class="lg:w-[400px] w-[320px] mx-auto"></a>
                 </div>         
           </section>
          

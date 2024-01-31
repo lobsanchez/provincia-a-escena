@@ -35,34 +35,34 @@ $pagina=3; ?>
             <section class="justify-center pb-16 bg-white lg:flex flex-wrap">    
                 <div class="px-6 pt-12">
                     <!-- <div class="w-[424px] h-[400px] bg-[#343363] text-center text-6xl text-white align-middle hover:text-[#343363] hover:bg-[url('../../images/sanctispiritus_foto_bn.jpg')]">SANCTI SPIRITUS</div> -->
-                    <img src="assets/images/decalogo1.jpg" class="mx-auto w-[400px]">
+                    <img src="assets/images/decalogo1.jpg" class="lg:w-[400px] w-[320px] mx-auto">
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo2.jpg" class="mx-auto w-[400px]">
+                    <img src="assets/images/decalogo2.jpg" class="lg:w-[400px] w-[320px] mx-auto">
                 </div>
                 <div class="px-6 pt-12">
-                   <img src="assets/images/decalogo3.jpg" class="mx-auto w-[400px]"> 
+                   <img src="assets/images/decalogo3.jpg" class="lg:w-[400px] w-[320px] mx-auto"> 
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo4.jpg" class="mx-auto w-[400px]">    
+                    <img src="assets/images/decalogo4.jpg" class="lg:w-[400px] w-[320px] mx-auto">    
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo5.jpg" class="mx-auto w-[400px]">
+                    <img src="assets/images/decalogo5.jpg" class="lg:w-[400px] w-[320px] mx-auto">
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo6.jpg" class="mx-auto w-[400px]">
+                    <img src="assets/images/decalogo6.jpg" class="lg:w-[400px] w-[320px] mx-auto">
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo7.jpg" class="mx-auto w-[400px]">
+                    <img src="assets/images/decalogo7.jpg" class="lg:w-[400px] w-[320px] mx-auto">
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo8.jpg" class="mx-auto w-[400px]">
+                    <img src="assets/images/decalogo8.jpg" class="lg:w-[400px] w-[320px] mx-auto">
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo9.jpg" class="mx-auto w-[400px]">
+                    <img src="assets/images/decalogo9.jpg" class="lg:w-[400px] w-[320px] mx-auto">
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo10.jpg" class="mx-auto w-[400px]">
+                    <img src="assets/images/decalogo10.jpg" class="lg:w-[400px] w-[320px] mx-auto">
                 </div>      
             </section>
         </main>
