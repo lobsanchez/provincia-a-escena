@@ -28,47 +28,43 @@ $pagina=3; ?>
    <body class="font-roboto container" id="top">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
-        <section class="py-16 text-right hero ">
-            <h2 class="xl:text-[180px] lg:text-[140px] text-[60px] px-16 leading-none font-anton text-black animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>DECÁLOGO DEL BUEN ESPECTADOR</span></h2> 
-          </section>
-          <img class="" src="assets/images/asdf.jpg">
-          <section class="flex-wrap justify-center pb-16 bg-white lg:flex">
-                
-                <div class="px-6 pt-12 link_village">
+            <section class="py-16 text-right hero ">
+                <h2 class="xl:text-[180px] lg:text-[140px] text-[60px] px-16 leading-none font-anton text-black animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>DECÁLOGO DEL BUEN ESPECTADOR</span></h2> 
+            </section>
+            <img class="mt-16" src="assets/images/asdf.jpg">
+            <section class="justify-center pb-16 bg-white lg:flex flex-wrap">    
+                <div class="px-6 pt-12">
                     <!-- <div class="w-[424px] h-[400px] bg-[#343363] text-center text-6xl text-white align-middle hover:text-[#343363] hover:bg-[url('../../images/sanctispiritus_foto_bn.jpg')]">SANCTI SPIRITUS</div> -->
-                    <a href="#"><img src="assets/images/decalogo1.jpg" class="w-[400px]"></a> 
+                    <img src="assets/images/decalogo1.jpg" class="mx-auto w-[400px]">
                 </div>
-                <div class="px-6 pt-12 link_village">
-                    <a href="#"><img src="assets/images/decalogo2.jpg" class="w-[400px]"></a>
+                <div class="px-6 pt-12">
+                    <img src="assets/images/decalogo2.jpg" class="mx-auto w-[400px]">
                 </div>
-                <div class="px-6 pt-12 link_village">
-                    <a href="#"><img src="assets/images/decalogo3.jpg" class="w-[400px]"></a> 
+                <div class="px-6 pt-12">
+                   <img src="assets/images/decalogo3.jpg" class="mx-auto w-[400px]"> 
                 </div>
-                <div class="px-6 pt-12 link_village">
-                    <a href="#"><img src="assets/images/decalogo4.jpg" class="w-[400px]"></a>    
+                <div class="px-6 pt-12">
+                    <img src="assets/images/decalogo4.jpg" class="mx-auto w-[400px]">    
                 </div>
-                <div class="px-6 pt-12 link_village">
-                    <a href="#"><img src="assets/images/decalogo5.jpg" class="w-[400px]"></a>
+                <div class="px-6 pt-12">
+                    <img src="assets/images/decalogo5.jpg" class="mx-auto w-[400px]">
                 </div>
-                <div class="px-6 pt-12 link_village">
-                    <a href="#"><img src="assets/images/decalogo6.jpg" class="w-[400px]"></a>
+                <div class="px-6 pt-12">
+                    <img src="assets/images/decalogo6.jpg" class="mx-auto w-[400px]">
                 </div>
-                <div class="px-6 pt-12 link_village">
-                    <a href="#"><img src="assets/images/decalogo7.jpg" class="w-[400px]"></a>
+                <div class="px-6 pt-12">
+                    <img src="assets/images/decalogo7.jpg" class="mx-auto w-[400px]">
                 </div>
-                <div class="px-6 pt-12 link_village">
-                    <a href="#"><img src="assets/images/decalogo8.jpg" class="w-[400px]"></a>
+                <div class="px-6 pt-12">
+                    <img src="assets/images/decalogo8.jpg" class="mx-auto w-[400px]">
                 </div>
-                <div class="px-6 pt-12 link_village">
-                    <a href="#"><img src="assets/images/decalogo9.jpg" class="w-[400px]"></a>
+                <div class="px-6 pt-12">
+                    <img src="assets/images/decalogo9.jpg" class="mx-auto w-[400px]">
                 </div>
-                <div class="px-6 pt-12 link_village">
-                    <a href="#"><img src="assets/images/decalogo10.jpg" class="w-[400px]"></a>
-                </div>
-                        
-          </section>
-         
-          
+                <div class="px-6 pt-12">
+                    <img src="assets/images/decalogo10.jpg" class="mx-auto w-[400px]">
+                </div>      
+            </section>
         </main>
         <?php include("assets/templates/footer.php"); ?> 
         <script src="assets/js/custom.js"></script>

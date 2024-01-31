@@ -23,9 +23,9 @@ $pagina=5; ?>
                 <h2 class="xl:text-[180px] lg:text-[140px] text-[60px] px-4 leading-none font-anton animate-fade-up animate-duration-700 animate-ease-linear animate-normal"><span>CONTACTO</span></h2> 
           </section>
           
-          <section class="container mx-auto lg:flex gap-5">            
-                <div class="w-2/3 px-4">
-                    <div class="container ">
+          <section class="container lg:flex gap-5">            
+                <div class="lg:w-2/3 px-4">
+                    <div class="container mt-16 ">
                         <h6 class="px-4 font-light py-12 text-xl">&#11044;&nbsp;&nbsp; ENVÍANOS UN MENSAJE</h6>
                         <p class="px-4 py-12 font-light text-3xl">RELLENA EL FORMULARIO PARA SOLICITARNOS CUALQUIER INFORMACIÓN Y NOS PONDREMOS EN CONTACTO CONTIGO LO ANTES POSIBLE.</p>
                     </div>    
@@ -61,17 +61,17 @@ $pagina=5; ?>
                         </div>
                     </form>     
                 </div>
-                <div class="container w-1/3 text-center mt-80">
-                <img class="w-[250px] mx-auto pb-20" src="./assets/images/mancha_cultura.jpeg">
-                    <h6 class="px-4 font-extralight pt-10 text-2xl">DIRECCIÓN</h6>
+                <div class="container lg:w-1/3 text-center my-auto">
+                <img class="w-[250px] mx-auto pb-12" src="./assets/images/mancha_cultura.jpeg">
+                    <h6 class="px-4 font-extralight pt-8 text-2xl">DIRECCIÓN</h6>
                     <p class="px-4 py-2 font-light text-xl">Felipe Espino 1, Salamanca</p>
-                    <h6 class="px-4 font-extralight pt-10 text-2xl">WEB Y EMAILS</h6>
+                    <h6 class="px-4 font-extralight pt-8 text-2xl">WEB Y EMAILS</h6>
                     <p class="px-4 py-2 font-light text-xl">lasalina.es/cultura</p>
                     <p class="px-4 py-2 font-light text-xl">provinciaaescena@gmail.com</p>
                     <p class="px-4 py-2 font-light text-xl">cultura@lasalina.es</p>
-                    <h6 class="px-4 font-extralight pt-10 text-2xl">TELÉFONO</h6>
+                    <h6 class="px-4 font-extralight pt-8 text-2xl">TELÉFONO</h6>
                     <p class="px-4 py-2 font-light text-xl">923293100</p>
-                    <h6 class="px-4 font-extralight pt-10 text-2xl">WHATSAPP</h6>
+                    <h6 class="px-4 font-extralight pt-8 text-2xl">WHATSAPP</h6>
                     <p class="px-4 py-2 font-light text-xl">636922702</p>
                 </div>
           </section>

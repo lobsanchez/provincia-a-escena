@@ -41,38 +41,54 @@ $pagina=4; ?>
             </div>
           </section>
           <section class="lg:flex flex-wrap bg-background-3 justify-center pb-16">  
-                <div class="pt-12 px-6 w-[400px] ">
-                    <!-- <div class="w-[424px] h-[400px] bg-[#343363] text-center text-6xl text-white align-middle hover:text-[#343363] hover:bg-[url('../../images/sanctispiritus_foto_bn.jpg')]">SANCTI SPIRITUS</div> -->
-                    <img class="" src="assets/images/TEATRO+DE+PONIENTE_mini.jpg"> 
+                <div class="card pt-12 px-6 w-[400px] mx-auto">
+                    <img class="" src="assets/images/TEATRO+DE+PONIENTE_mini.jpg">
+                    <div class="card__content">
+                        <p class="card__title">TEATRO DE PONIENTE</p>
+                        <p class="card__description"><span class="font-bold">Obra:</span> Las buscadoras de palabras.</p>
+                        <p class="card__description"><span class="font-bold">Duración:</span> 60 minutos.</p>
+                        <p class="card__description"><span class="font-bold">Destinatarios:</span>Educación Primaria, preferentemente 3º a 6º.</p>
+                        <p class="card__description"><span class="font-bold">Sinopsis:</span>Sinopsis: Rita Peripecia y Lola Molécula, dos exploradoras que viajan por el 
+                        universo,  buscan las palabras más bonitas del mundo, reales e inventadas, que se han ido a esconder en los libros de aventuras más importantes de 
+                        la Literatura Universal.</p>
+                        <p class="card__description">Rita Peripecia es una soñadora sin miedo a nada. Una viajera intrépida, valiente, y atrevida a quien ningún peligro frena.</p>
+                    </div>
                 </div>
-                <div class="pt-12 px-6 w-[400px]">
+                <div class="card pt-12 px-6 w-[400px] mx-auto">
                     <img class="" src="assets/images/IMAGEN+EL+PRINCIPATO_mini.jpg">
+                    <div class="card__content">
+                        <p class="card__title">TEATRO DE PONIENTE</p>
+                        <p class="card__description"><span class="font-bold" >Obra:</span> Las buscadoras de palabras.</p>
+                        <p class="card__description">Duración: 60 minutos.</p>
+                        <p class="card__description">Duración: 60 minutos.</p>
+                        <p class="card__description">Sinopsis: Rita Peripecia y Lola Molécula, dos exploradoras que viajan por el universo,  buscan las palabras más bonitas del mundo, reales e inventadas, que se han ido a esconder en los libros de aventuras más importantes de la Literatura Universal.</p>
+                    </div>
                 </div>
-                <div class="pt-12 px-6 w-[400px]">
+                <div class="pt-12 px-6 w-[400px] mx-auto">
                     <img src="assets/images/Kobr3_mini.jpg"> 
                 </div>
-                <div class="pt-12 px-6 w-[400px]">
+                <div class="pt-12 px-6 w-[400px] mx-auto">
                     <img src="assets/images/8+IMAGEN+ALUA+TEATRO_mini.png">
                 </div>
-                <div class="pt-12 px-6 w-[400px]">
+                <div class="pt-12 px-6 w-[400px] mx-auto">
                     <img src="assets/images/LaMujerPaja_mini.jpg">
                 </div>
-                <div class="pt-12 px-6 w-[400px]">
+                <div class="pt-12 px-6 w-[400px] mx-auto">
                     <img src="assets/images/LaCasaPorElTejado_mini.jpg">
                 </div>
-                <div class="pt-12 px-6 w-[400px]">
+                <div class="pt-12 px-6 w-[400px] mx-auto">
                     <img src="assets/images/LaReinaDelArga_mini.jpg">
                 </div>
-                <div class="pt-12 px-6 w-[400px]">
+                <div class="pt-12 px-6 w-[400px] mx-auto">
                     <img src="assets/images/LaGallinaAzul_mini.jpg">
                 </div>
-                <div class="pt-12 px-6 w-[400px]">
+                <div class="pt-12 px-6 w-[400px] mx-auto">
                     <img src="assets/images/CuantasEstrellasPuedesContar_mini.jpg">
                 </div>
-                <div class="pt-12 px-6 w-[400px]">
+                <div class="pt-12 px-6 w-[400px] mx-auto">
                     <img src="assets/images/Hamelín_mini.jpg">
                 </div>
-                <div class="pt-12 px-6 w-[400px]">
+                <div class="pt-12 px-6 w-[400px] mx-auto">
                     <img src="assets/images/MiguelínElIngenioso_mini.jpg"> 
                 </div>     
           </section>
