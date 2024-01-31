@@ -20,10 +20,10 @@ $pagina=1; ?>
         <?php include("assets/templates/header.php"); ?>   	
         <main>
           <section class="lg:container py-24 mx-auto hero">
-                <h2 class="xl:text-[180px] lg:text-[140px] text-[80px] px-4 leading-none font-anton animate-fade-left animate-once animate-duration-700 animate-ease-linear"><span>EL FESTIVAL</span></h2> 
+                <h2 class="xl:text-[180px] lg:text-[140px] text-[80px] px-4 leading-none font-anton animate-fade-left animate-once animate-duration-700 animate-ease-linear"><span>EL FESTIVAL PROVINCIA A ESCENA</span></h2> 
           </section>
         
-          <section class="lg:flex bg-background-2 mt-16 pb-10">
+          <section class="CONTAINER lg:flex bg-background-2 pb-10">
                 <div class="lg:w-1/3 xl:px-12 p-7 lg:pt-16 pt-7">
                     <h2 class="xl:text-4xl text-3xl font-anton text-menu">PROGRAMA DE PROMOCIÓN CULTURAL</h2>
                     <p class="pt-5 text-lg text-menu">PROVINCIA A ESCENA, es un programa de promoción cultural y dinamización 

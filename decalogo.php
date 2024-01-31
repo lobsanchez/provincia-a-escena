@@ -28,41 +28,40 @@ $pagina=3; ?>
    <body class="font-roboto container" id="top">
         <?php include("assets/templates/header.php"); ?>   	
         <main>
-            <section class="py-16 text-right hero ">
-                <h2 class="xl:text-[180px] lg:text-[140px] text-[60px] px-16 leading-none font-anton text-black animate-fade-right animate-once animate-duration-700 animate-ease-linear"><span>DECÁLOGO DEL BUEN ESPECTADOR</span></h2> 
+            <section class="lg:container py-24 mx-auto hero">
+                <h2 class="xl:text-[180px] lg:text-[140px] text-[80px] px-4 leading-none font-anton animate-fade-left animate-once animate-duration-700 animate-ease-linear"><span>DECÁLOGO DEL BUEN ESPECTADOR</span></h2> 
             </section>
-            <img class="mt-16" src="assets/images/asdf.jpg">
+            <img class="" src="assets/images/asdf.jpg">
             <section class="justify-center pb-16 bg-white lg:flex flex-wrap">    
                 <div class="px-6 pt-12">
-                    <!-- <div class="w-[424px] h-[400px] bg-[#343363] text-center text-6xl text-white align-middle hover:text-[#343363] hover:bg-[url('../../images/sanctispiritus_foto_bn.jpg')]">SANCTI SPIRITUS</div> -->
-                    <img src="assets/images/decalogo1.jpg" class="lg:w-[400px] w-[320px] mx-auto">
+                    <img src="assets/images/decalogo1.jpg" class="lg:w-[400px] w-[320px] mx-auto link_village">
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo2.jpg" class="lg:w-[400px] w-[320px] mx-auto">
+                    <img src="assets/images/decalogo2.jpg" class="lg:w-[400px] w-[320px] mx-auto link_village">
                 </div>
                 <div class="px-6 pt-12">
-                   <img src="assets/images/decalogo3.jpg" class="lg:w-[400px] w-[320px] mx-auto"> 
+                   <img src="assets/images/decalogo3.jpg" class="lg:w-[400px] w-[320px] mx-auto link_village"> 
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo4.jpg" class="lg:w-[400px] w-[320px] mx-auto">    
+                    <img src="assets/images/decalogo4.jpg" class="lg:w-[400px] w-[320px] mx-auto link_village">    
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo5.jpg" class="lg:w-[400px] w-[320px] mx-auto">
+                    <img src="assets/images/decalogo5.jpg" class="lg:w-[400px] w-[320px] mx-auto link_village">
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo6.jpg" class="lg:w-[400px] w-[320px] mx-auto">
+                    <img src="assets/images/decalogo6.jpg" class="lg:w-[400px] w-[320px] mx-auto link_village">
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo7.jpg" class="lg:w-[400px] w-[320px] mx-auto">
+                    <img src="assets/images/decalogo7.jpg" class="lg:w-[400px] w-[320px] mx-auto link_village">
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo8.jpg" class="lg:w-[400px] w-[320px] mx-auto">
+                    <img src="assets/images/decalogo8.jpg" class="lg:w-[400px] w-[320px] mx-auto link_village">
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo9.jpg" class="lg:w-[400px] w-[320px] mx-auto">
+                    <img src="assets/images/decalogo9.jpg" class="lg:w-[400px] w-[320px] mx-auto link_village">
                 </div>
                 <div class="px-6 pt-12">
-                    <img src="assets/images/decalogo10.jpg" class="lg:w-[400px] w-[320px] mx-auto">
+                    <img src="assets/images/decalogo10.jpg" class="lg:w-[400px] w-[320px] mx-auto link_village">
                 </div>      
             </section>
         </main>

@@ -62,16 +62,16 @@ $pagina=5; ?>
                     </form>     
                 </div>
                 <div class="container lg:w-1/3 text-center my-auto">
-                <img class="w-[250px] mx-auto pb-12" src="./assets/images/mancha_cultura.jpeg">
-                    <h6 class="px-4 font-extralight pt-8 text-2xl">DIRECCIÓN</h6>
+                    <img class="w-[250px] mx-auto pb-12" src="./assets/images/mancha_cultura.jpeg">
+                    <h6 class="px-4 font-normal pt-8 text-2xl">DIRECCIÓN</h6>
                     <p class="px-4 py-2 font-light text-xl">Felipe Espino 1, Salamanca</p>
-                    <h6 class="px-4 font-extralight pt-8 text-2xl">WEB Y EMAILS</h6>
+                    <h6 class="px-4 font-normal pt-8 text-2xl">WEB Y EMAILS</h6>
                     <p class="px-4 py-2 font-light text-xl">lasalina.es/cultura</p>
                     <p class="px-4 py-2 font-light text-xl">provinciaaescena@gmail.com</p>
                     <p class="px-4 py-2 font-light text-xl">cultura@lasalina.es</p>
-                    <h6 class="px-4 font-extralight pt-8 text-2xl">TELÉFONO</h6>
+                    <h6 class="px-4 font-normal pt-8 text-2xl">TELÉFONO</h6>
                     <p class="px-4 py-2 font-light text-xl">923293100</p>
-                    <h6 class="px-4 font-extralight pt-8 text-2xl">WHATSAPP</h6>
+                    <h6 class="px-4 font-normal pt-8 text-2xl">WHATSAPP</h6>
                     <p class="px-4 py-2 font-light text-xl">636922702</p>
                 </div>
           </section>

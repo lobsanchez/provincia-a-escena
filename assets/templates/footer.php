@@ -12,8 +12,9 @@
     </div>
     <div class="md:grid grid-cols-8 py-16">
         <div class="col-span-7">
-            <a class="px-6" href="#">POLÍTICA DE PRIVACIDAD</a>
-            <a class="px-6" href="#">AVISO LEGAL</a>
+            <a aria-label="Política de privacidad del sitio web" class="px-6" href="#">PRIVACIDAD</a>
+            <a aria-label="Aviso legal del sitio web" class="px-6" href="#">AVISO LEGAL</a>
+            <a aria-label="Descargas de carteles y dípticos del festival Provincia a Escena" class="px-6" href="#">DESCARGAS</a>
         </div>
         <div class="grid justify-end grid-cols-3 text-menu">
             <a href="https://www.facebook.com/dipucultura" target="_blank"><img class="h-10" src="assets\images\facebook.png" alt="Logo facebook" srcset=""></a>
