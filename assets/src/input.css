@@ -76,5 +76,25 @@
   .marquee__item {
     flex-shrink: 0;
   }
- 
+.logobox:hover{
+  .logotipo1{
+    transform: translateY(145px);
+    
+  }
+  .logotipo2{
+    
+    transform: translate(-85px, -30px) scale(1.5);
+  }
+}
+.logotipo1 {
+    filter: drop-shadow(5px 5px 5px #000b);
+    z-index: 1;
+    transition: transform 0.7s ease;
+    
+}
+.logotipo2 {
+  filter: drop-shadow(5px 5px 5px #000b);
+  transition: transform 0.7s ease;
+}
+
 /*Necesario instalar tailwindcss-animated*/
